@@ -1,0 +1,4552 @@
+[
+  {
+    "_id": "a2fd210a-8160-4eb8-82ed-f3fd450baa8d",
+    "category": "kitchen",
+    "productName": "Smart Pressure Cooker",
+    "description": "Durable pressure cooker for fast meals.",
+    "specification": [
+      "Stainless Steel - Smart",
+      "6L Capacity",
+      "Safety Valve - Smart",
+      "Induction Base - Smart"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "7770bbc9-54b1-479f-b811-f6e5bdbfdf33",
+    "category": "kitchen",
+    "productName": "Nova Pressure Cooker",
+    "description": "Durable pressure cooker for fast meals.",
+    "specification": [
+      "Stainless Steel - Nova",
+      "6L Capacity",
+      "Safety Valve",
+      "Induction Base - Nova"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "f617f1c0-db13-445d-b198-34dfbfba90cd",
+    "category": "kitchen",
+    "productName": "Max Frying Pan",
+    "description": "Max high-quality frying pan for everyday use.",
+    "specification": [
+      "Non-stick Coating",
+      "Dishwasher Safe",
+      "Even Heat Distribution",
+      "2-Year Warranty - Max"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "bc0d403d-4a3b-4c6c-b153-2745c6a4e89f",
+    "category": "kitchen",
+    "productName": "Ultra Knife Set",
+    "description": "Sharp and durable kitchen knives.",
+    "specification": [
+      "Stainless Steel Blades",
+      "Ergonomic Handles",
+      "Includes Stand",
+      "Dishwasher Safe"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "01c8684d-b2a8-4727-a7bb-e5330522316b",
+    "category": "kitchen",
+    "productName": "Nova Knife Set",
+    "description": "Sharp and durable kitchen knives.",
+    "specification": [
+      "Stainless Steel Blades - Nova",
+      "Ergonomic Handles",
+      "Includes Stand",
+      "Dishwasher Safe"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "9014b2db-432f-4779-a6a1-9c5679c8a393",
+    "category": "kitchen",
+    "productName": "Ultra Frying Pan",
+    "description": "Ultra high-quality frying pan for everyday use.",
+    "specification": [
+      "Non-stick Coating",
+      "Dishwasher Safe - Ultra",
+      "Even Heat Distribution - Ultra",
+      "2-Year Warranty"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "07e128b0-2253-4849-b9fd-4f447f7fd21c",
+    "category": "kitchen",
+    "productName": "Zenith Pressure Cooker",
+    "description": "Durable pressure cooker for fast meals.",
+    "specification": [
+      "Stainless Steel",
+      "6L Capacity - Zenith",
+      "Safety Valve",
+      "Induction Base"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "d0e858bb-4f8c-4ddb-a99c-906ba356dd0e",
+    "category": "kitchen",
+    "productName": "Zenith Pressure Cooker",
+    "description": "Durable pressure cooker for fast meals.",
+    "specification": [
+      "Stainless Steel",
+      "6L Capacity",
+      "Safety Valve - Zenith",
+      "Induction Base"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "49a92f78-4b96-448e-a15c-6a2fe6f1a470",
+    "category": "kitchen",
+    "productName": "Max Frying Pan",
+    "description": "Max high-quality frying pan for everyday use.",
+    "specification": [
+      "Non-stick Coating",
+      "Dishwasher Safe - Max",
+      "Even Heat Distribution",
+      "2-Year Warranty"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "831ffb46-2b96-45cf-af1a-56dfb0c4466f",
+    "category": "kitchen",
+    "productName": "Zenith Pressure Cooker",
+    "description": "Durable pressure cooker for fast meals.",
+    "specification": [
+      "Stainless Steel - Zenith",
+      "6L Capacity",
+      "Safety Valve - Zenith",
+      "Induction Base"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "5b929eb6-bcc0-4631-b98f-6ddb081107ef",
+    "category": "kitchen",
+    "productName": "Max Knife Set",
+    "description": "Sharp and durable kitchen knives.",
+    "specification": [
+      "Stainless Steel Blades",
+      "Ergonomic Handles",
+      "Includes Stand",
+      "Dishwasher Safe"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "4f47a03f-6d6a-4627-873b-3fbe4a515493",
+    "category": "kitchen",
+    "productName": "Eco Knife Set",
+    "description": "Sharp and durable kitchen knives.",
+    "specification": [
+      "Stainless Steel Blades",
+      "Ergonomic Handles",
+      "Includes Stand",
+      "Dishwasher Safe"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "8092df64-d931-4da9-b66d-7d51d801dab1",
+    "category": "kitchen",
+    "productName": "Eco Frying Pan",
+    "description": "Eco high-quality frying pan for everyday use.",
+    "specification": [
+      "Non-stick Coating",
+      "Dishwasher Safe",
+      "Even Heat Distribution - Eco",
+      "2-Year Warranty"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "e240d39a-840c-4953-a034-ec75d63d6a26",
+    "category": "kitchen",
+    "productName": "Vivid Frying Pan",
+    "description": "Vivid high-quality frying pan for everyday use.",
+    "specification": [
+      "Non-stick Coating",
+      "Dishwasher Safe - Vivid",
+      "Even Heat Distribution",
+      "2-Year Warranty"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "a5acc86d-8bee-4b2f-8ede-cf87c51480ec",
+    "category": "kitchen",
+    "productName": "Smart Knife Set",
+    "description": "Sharp and durable kitchen knives.",
+    "specification": [
+      "Stainless Steel Blades - Smart",
+      "Ergonomic Handles",
+      "Includes Stand",
+      "Dishwasher Safe"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "a97cd3a7-acc4-4b4c-b768-3f65f13c1c68",
+    "category": "kitchen",
+    "productName": "Ultra Knife Set",
+    "description": "Sharp and durable kitchen knives.",
+    "specification": [
+      "Stainless Steel Blades - Ultra",
+      "Ergonomic Handles - Ultra",
+      "Includes Stand",
+      "Dishwasher Safe"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "b4bf8d4c-93ab-429b-89a3-353f24ac278a",
+    "category": "kitchen",
+    "productName": "Ultra Knife Set",
+    "description": "Sharp and durable kitchen knives.",
+    "specification": [
+      "Stainless Steel Blades",
+      "Ergonomic Handles",
+      "Includes Stand",
+      "Dishwasher Safe"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "c8c331f8-8ed5-4023-8643-09a41f45bfc7",
+    "category": "kitchen",
+    "productName": "Prime Frying Pan",
+    "description": "Prime high-quality frying pan for everyday use.",
+    "specification": [
+      "Non-stick Coating",
+      "Dishwasher Safe",
+      "Even Heat Distribution",
+      "2-Year Warranty"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "f895b65d-5146-451f-ae87-a397b207f9a6",
+    "category": "kitchen",
+    "productName": "Prime Pressure Cooker",
+    "description": "Durable pressure cooker for fast meals.",
+    "specification": [
+      "Stainless Steel - Prime",
+      "6L Capacity",
+      "Safety Valve",
+      "Induction Base"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "c2ca04ae-ef55-44be-95ad-f8879025649f",
+    "category": "kitchen",
+    "productName": "Pro Knife Set",
+    "description": "Sharp and durable kitchen knives.",
+    "specification": [
+      "Stainless Steel Blades",
+      "Ergonomic Handles",
+      "Includes Stand - Pro",
+      "Dishwasher Safe"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "da8fee02-1492-4ef3-b9a2-8ae2212eed59",
+    "category": "kitchen",
+    "productName": "Zenith Knife Set",
+    "description": "Sharp and durable kitchen knives.",
+    "specification": [
+      "Stainless Steel Blades - Zenith",
+      "Ergonomic Handles",
+      "Includes Stand - Zenith",
+      "Dishwasher Safe - Zenith"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "b9c6b9f2-fadd-4ed9-be90-7a0fb7119aeb",
+    "category": "kitchen",
+    "productName": "Ultra Pressure Cooker",
+    "description": "Durable pressure cooker for fast meals.",
+    "specification": [
+      "Stainless Steel",
+      "6L Capacity",
+      "Safety Valve",
+      "Induction Base"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "ee8f7ea4-fb86-41d8-9a78-27e4ab7c099b",
+    "category": "kitchen",
+    "productName": "Smart Frying Pan",
+    "description": "Smart high-quality frying pan for everyday use.",
+    "specification": [
+      "Non-stick Coating",
+      "Dishwasher Safe",
+      "Even Heat Distribution",
+      "2-Year Warranty"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "786f1a16-078b-4f26-8570-fd9fd750eaf6",
+    "category": "kitchen",
+    "productName": "Prime Pressure Cooker",
+    "description": "Durable pressure cooker for fast meals.",
+    "specification": [
+      "Stainless Steel",
+      "6L Capacity",
+      "Safety Valve - Prime",
+      "Induction Base"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "7b8dabb8-0069-4bb4-a8ed-bf575338efc3",
+    "category": "kitchen",
+    "productName": "Ultra Frying Pan",
+    "description": "Ultra high-quality frying pan for everyday use.",
+    "specification": [
+      "Non-stick Coating - Ultra",
+      "Dishwasher Safe",
+      "Even Heat Distribution",
+      "2-Year Warranty"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "620db90b-1780-4d81-a11e-c05e4a3d5f16",
+    "category": "kitchen",
+    "productName": "Pro Frying Pan",
+    "description": "Pro high-quality frying pan for everyday use.",
+    "specification": [
+      "Non-stick Coating",
+      "Dishwasher Safe",
+      "Even Heat Distribution",
+      "2-Year Warranty - Pro"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "b319e373-5be9-4c15-8e3f-8bbb8ecf6e68",
+    "category": "kitchen",
+    "productName": "Eco Knife Set",
+    "description": "Sharp and durable kitchen knives.",
+    "specification": [
+      "Stainless Steel Blades",
+      "Ergonomic Handles - Eco",
+      "Includes Stand",
+      "Dishwasher Safe"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "11c7bd9e-f315-4792-a3cf-05c183fb0c11",
+    "category": "kitchen",
+    "productName": "Elite Pressure Cooker",
+    "description": "Durable pressure cooker for fast meals.",
+    "specification": [
+      "Stainless Steel",
+      "6L Capacity",
+      "Safety Valve",
+      "Induction Base"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "88f20dc5-b6d5-4fa8-a4f1-fece3075a121",
+    "category": "kitchen",
+    "productName": "Nova Knife Set",
+    "description": "Sharp and durable kitchen knives.",
+    "specification": [
+      "Stainless Steel Blades",
+      "Ergonomic Handles",
+      "Includes Stand",
+      "Dishwasher Safe"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "c9e5c67b-e6a6-41c9-9c6a-fa15a86e86d7",
+    "category": "kitchen",
+    "productName": "Elite Frying Pan",
+    "description": "Elite high-quality frying pan for everyday use.",
+    "specification": [
+      "Non-stick Coating",
+      "Dishwasher Safe - Elite",
+      "Even Heat Distribution",
+      "2-Year Warranty"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "6d162786-e2d0-43cb-9ae0-3ea4fed1a4b7",
+    "category": "kitchen",
+    "productName": "Elite Frying Pan",
+    "description": "Elite high-quality frying pan for everyday use.",
+    "specification": [
+      "Non-stick Coating - Elite",
+      "Dishwasher Safe - Elite",
+      "Even Heat Distribution - Elite",
+      "2-Year Warranty"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "b16142a3-42f5-4e44-96df-aa0ac20f54dd",
+    "category": "kitchen",
+    "productName": "Eco Pressure Cooker",
+    "description": "Durable pressure cooker for fast meals.",
+    "specification": [
+      "Stainless Steel - Eco",
+      "6L Capacity",
+      "Safety Valve",
+      "Induction Base"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "d39cf769-4b27-4903-acb6-89693debe7ed",
+    "category": "kitchen",
+    "productName": "Prime Knife Set",
+    "description": "Sharp and durable kitchen knives.",
+    "specification": [
+      "Stainless Steel Blades",
+      "Ergonomic Handles",
+      "Includes Stand - Prime",
+      "Dishwasher Safe"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "00fb04ef-ef47-4449-b160-bc088eded932",
+    "category": "kitchen",
+    "productName": "Max Knife Set",
+    "description": "Sharp and durable kitchen knives.",
+    "specification": [
+      "Stainless Steel Blades",
+      "Ergonomic Handles - Max",
+      "Includes Stand",
+      "Dishwasher Safe"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "abef8eed-d325-449e-82ff-454375881725",
+    "category": "kitchen",
+    "productName": "Zenith Pressure Cooker",
+    "description": "Durable pressure cooker for fast meals.",
+    "specification": [
+      "Stainless Steel",
+      "6L Capacity",
+      "Safety Valve",
+      "Induction Base - Zenith"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "a327d4d7-3d15-4ad6-9c5a-f87ee4c67b68",
+    "category": "electronics",
+    "productName": "Pro Bluetooth Speaker",
+    "description": "Portable speaker with powerful sound.",
+    "specification": [
+      "10-Hour Battery - Pro",
+      "Water Resistant",
+      "Compact Design - Pro",
+      "Bluetooth 5.0"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "9c1a9a9b-ae87-4974-8bd1-c79bc24681e0",
+    "category": "electronics",
+    "productName": "Zenith Smartphone",
+    "description": "Zenith's latest smartphone with advanced features.",
+    "specification": [
+      "128GB Storage",
+      "AMOLED Display - Zenith",
+      "Triple Camera",
+      "5G"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "3770b4dc-52a5-4600-ba32-9c31800ddfb1",
+    "category": "electronics",
+    "productName": "Prime Laptop",
+    "description": "Lightweight and powerful laptop for professionals.",
+    "specification": [
+      "Intel i7",
+      "16GB RAM",
+      "512GB SSD",
+      "Backlit Keyboard"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "602be81c-9a0b-47da-9b55-f28be4e6b705",
+    "category": "electronics",
+    "productName": "Ultra Smartphone",
+    "description": "Ultra's latest smartphone with advanced features.",
+    "specification": [
+      "128GB Storage",
+      "AMOLED Display",
+      "Triple Camera - Ultra",
+      "5G"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "9d887c28-7bd0-40aa-bde9-6cb4344918d7",
+    "category": "electronics",
+    "productName": "Pro Bluetooth Speaker",
+    "description": "Portable speaker with powerful sound.",
+    "specification": [
+      "10-Hour Battery",
+      "Water Resistant",
+      "Compact Design",
+      "Bluetooth 5.0"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "59e80c81-bbc1-4da2-be49-ed30bbe0d7f3",
+    "category": "electronics",
+    "productName": "Prime Smartphone",
+    "description": "Prime's latest smartphone with advanced features.",
+    "specification": [
+      "128GB Storage - Prime",
+      "AMOLED Display",
+      "Triple Camera - Prime",
+      "5G"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "7d87eeb1-ae1c-47df-b48f-94882fb2e9a9",
+    "category": "electronics",
+    "productName": "Max Laptop",
+    "description": "Lightweight and powerful laptop for professionals.",
+    "specification": [
+      "Intel i7",
+      "16GB RAM - Max",
+      "512GB SSD",
+      "Backlit Keyboard"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "50b33b0f-fdbd-478c-a685-277b64104b5e",
+    "category": "electronics",
+    "productName": "Ultra Bluetooth Speaker",
+    "description": "Portable speaker with powerful sound.",
+    "specification": [
+      "10-Hour Battery - Ultra",
+      "Water Resistant",
+      "Compact Design",
+      "Bluetooth 5.0 - Ultra"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "578c3d45-7a79-4c2d-9ba1-4282e56da0d7",
+    "category": "electronics",
+    "productName": "Smart Laptop",
+    "description": "Lightweight and powerful laptop for professionals.",
+    "specification": [
+      "Intel i7 - Smart",
+      "16GB RAM",
+      "512GB SSD - Smart",
+      "Backlit Keyboard - Smart"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "6cce76ee-a92c-4e2b-bb6a-d0c0ee549ef8",
+    "category": "electronics",
+    "productName": "Vivid Smartphone",
+    "description": "Vivid's latest smartphone with advanced features.",
+    "specification": [
+      "128GB Storage - Vivid",
+      "AMOLED Display - Vivid",
+      "Triple Camera",
+      "5G"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "bf38d71f-9d4d-4aec-9f17-9ce422863551",
+    "category": "electronics",
+    "productName": "Pro Laptop",
+    "description": "Lightweight and powerful laptop for professionals.",
+    "specification": [
+      "Intel i7 - Pro",
+      "16GB RAM - Pro",
+      "512GB SSD - Pro",
+      "Backlit Keyboard"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "817b6785-aa51-406d-acb9-cdb9e4ff2def",
+    "category": "electronics",
+    "productName": "Ultra Smartphone",
+    "description": "Ultra's latest smartphone with advanced features.",
+    "specification": [
+      "128GB Storage",
+      "AMOLED Display - Ultra",
+      "Triple Camera",
+      "5G - Ultra"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "cb38cbc8-d137-475a-b6b8-c9de008583e1",
+    "category": "electronics",
+    "productName": "Elite Smartphone",
+    "description": "Elite's latest smartphone with advanced features.",
+    "specification": [
+      "128GB Storage",
+      "AMOLED Display",
+      "Triple Camera",
+      "5G - Elite"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "4b9aaeb6-c260-480c-826c-ef5e07d3c837",
+    "category": "electronics",
+    "productName": "Vivid Laptop",
+    "description": "Lightweight and powerful laptop for professionals.",
+    "specification": [
+      "Intel i7 - Vivid",
+      "16GB RAM",
+      "512GB SSD",
+      "Backlit Keyboard - Vivid"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "3e0c7d9b-e92c-4c27-a5f6-639c58b8e160",
+    "category": "electronics",
+    "productName": "Elite Smartphone",
+    "description": "Elite's latest smartphone with advanced features.",
+    "specification": [
+      "128GB Storage - Elite",
+      "AMOLED Display - Elite",
+      "Triple Camera",
+      "5G"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "84327a94-a405-41e8-8b24-57a76e01cf84",
+    "category": "electronics",
+    "productName": "Vivid Smartphone",
+    "description": "Vivid's latest smartphone with advanced features.",
+    "specification": [
+      "128GB Storage",
+      "AMOLED Display",
+      "Triple Camera",
+      "5G - Vivid"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "1d0b4a17-d3ac-4fdb-a2c3-26dfbc7ec4c4",
+    "category": "electronics",
+    "productName": "Ultra Bluetooth Speaker",
+    "description": "Portable speaker with powerful sound.",
+    "specification": [
+      "10-Hour Battery",
+      "Water Resistant",
+      "Compact Design",
+      "Bluetooth 5.0"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "1f126d19-a237-4841-a1af-65d6b5cd0c4e",
+    "category": "electronics",
+    "productName": "Pro Smartphone",
+    "description": "Pro's latest smartphone with advanced features.",
+    "specification": [
+      "128GB Storage",
+      "AMOLED Display",
+      "Triple Camera - Pro",
+      "5G"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "b703913d-99a7-4330-8235-2c38a324a5b0",
+    "category": "electronics",
+    "productName": "Max Smartphone",
+    "description": "Max's latest smartphone with advanced features.",
+    "specification": [
+      "128GB Storage - Max",
+      "AMOLED Display - Max",
+      "Triple Camera - Max",
+      "5G"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "44febb8c-a976-4899-9752-bd54884f8ac4",
+    "category": "electronics",
+    "productName": "Vivid Laptop",
+    "description": "Lightweight and powerful laptop for professionals.",
+    "specification": [
+      "Intel i7",
+      "16GB RAM",
+      "512GB SSD",
+      "Backlit Keyboard - Vivid"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "43f2f00a-0941-4bdc-80e5-8beaedde1c48",
+    "category": "electronics",
+    "productName": "Smart Bluetooth Speaker",
+    "description": "Portable speaker with powerful sound.",
+    "specification": [
+      "10-Hour Battery",
+      "Water Resistant",
+      "Compact Design - Smart",
+      "Bluetooth 5.0 - Smart"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "4bf559a4-2f5b-40da-a5fa-b296040c9874",
+    "category": "electronics",
+    "productName": "Prime Bluetooth Speaker",
+    "description": "Portable speaker with powerful sound.",
+    "specification": [
+      "10-Hour Battery",
+      "Water Resistant",
+      "Compact Design",
+      "Bluetooth 5.0 - Prime"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "544c5279-b591-419b-8a14-6002b3b7a02a",
+    "category": "electronics",
+    "productName": "Pro Smartphone",
+    "description": "Pro's latest smartphone with advanced features.",
+    "specification": [
+      "128GB Storage",
+      "AMOLED Display",
+      "Triple Camera",
+      "5G"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "082d4499-1d46-43a8-be6a-91799b086ef3",
+    "category": "electronics",
+    "productName": "Nova Laptop",
+    "description": "Lightweight and powerful laptop for professionals.",
+    "specification": [
+      "Intel i7 - Nova",
+      "16GB RAM",
+      "512GB SSD",
+      "Backlit Keyboard - Nova"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "14dbed64-01dc-4bd4-9df2-a1543dbd64ad",
+    "category": "electronics",
+    "productName": "Nova Smartphone",
+    "description": "Nova's latest smartphone with advanced features.",
+    "specification": [
+      "128GB Storage",
+      "AMOLED Display",
+      "Triple Camera - Nova",
+      "5G - Nova"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "9554c227-8ae2-45f0-8bc0-34a616451bc5",
+    "category": "electronics",
+    "productName": "Smart Smartphone",
+    "description": "Smart's latest smartphone with advanced features.",
+    "specification": [
+      "128GB Storage",
+      "AMOLED Display",
+      "Triple Camera - Smart",
+      "5G - Smart"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "651d76cf-ce5d-49e7-bbf8-956383f11775",
+    "category": "electronics",
+    "productName": "Vivid Smartphone",
+    "description": "Vivid's latest smartphone with advanced features.",
+    "specification": [
+      "128GB Storage - Vivid",
+      "AMOLED Display",
+      "Triple Camera - Vivid",
+      "5G"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "cec1767e-90e6-4128-9ddc-ac01e71f97ef",
+    "category": "electronics",
+    "productName": "Smart Laptop",
+    "description": "Lightweight and powerful laptop for professionals.",
+    "specification": [
+      "Intel i7",
+      "16GB RAM - Smart",
+      "512GB SSD",
+      "Backlit Keyboard"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "242c6baf-02fd-44be-811f-cd946680f0c5",
+    "category": "electronics",
+    "productName": "Smart Bluetooth Speaker",
+    "description": "Portable speaker with powerful sound.",
+    "specification": [
+      "10-Hour Battery",
+      "Water Resistant - Smart",
+      "Compact Design",
+      "Bluetooth 5.0 - Smart"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "5ab5c539-9274-4f86-ab94-9645e7631b13",
+    "category": "electronics",
+    "productName": "Pro Laptop",
+    "description": "Lightweight and powerful laptop for professionals.",
+    "specification": [
+      "Intel i7 - Pro",
+      "16GB RAM",
+      "512GB SSD",
+      "Backlit Keyboard - Pro"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "026d4a88-1a9a-4e9d-a932-e0a2cc2368fe",
+    "category": "electronics",
+    "productName": "Max Bluetooth Speaker",
+    "description": "Portable speaker with powerful sound.",
+    "specification": [
+      "10-Hour Battery - Max",
+      "Water Resistant - Max",
+      "Compact Design - Max",
+      "Bluetooth 5.0"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "4c8d5796-ff6a-4124-8a02-d4beaadbde49",
+    "category": "electronics",
+    "productName": "Elite Laptop",
+    "description": "Lightweight and powerful laptop for professionals.",
+    "specification": [
+      "Intel i7",
+      "16GB RAM",
+      "512GB SSD",
+      "Backlit Keyboard"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "1cf1ea59-8c8b-4595-8d99-a3ee8e1cba8f",
+    "category": "electronics",
+    "productName": "Max Bluetooth Speaker",
+    "description": "Portable speaker with powerful sound.",
+    "specification": [
+      "10-Hour Battery",
+      "Water Resistant",
+      "Compact Design",
+      "Bluetooth 5.0"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "b8b24b7a-30f8-431e-a6f0-56713cfd86c9",
+    "category": "electronics",
+    "productName": "Zenith Smartphone",
+    "description": "Zenith's latest smartphone with advanced features.",
+    "specification": [
+      "128GB Storage - Zenith",
+      "AMOLED Display - Zenith",
+      "Triple Camera - Zenith",
+      "5G - Zenith"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "cd65f8ec-6843-447b-9a45-cc9995d6a56f",
+    "category": "electronics",
+    "productName": "Vivid Smartphone",
+    "description": "Vivid's latest smartphone with advanced features.",
+    "specification": [
+      "128GB Storage - Vivid",
+      "AMOLED Display",
+      "Triple Camera",
+      "5G - Vivid"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "b2011eab-b5cd-4c30-9871-aa90fa8e0100",
+    "category": "furniture",
+    "productName": "Smart Sofa",
+    "description": "Comfortable and stylish sofa.",
+    "specification": [
+      "L-shaped",
+      "Soft Fabric - Smart",
+      "Storage Space",
+      "3-Seater"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "df68edd8-ab03-4f5f-8dae-cc92965e6904",
+    "category": "furniture",
+    "productName": "Elite Sofa",
+    "description": "Comfortable and stylish sofa.",
+    "specification": [
+      "L-shaped - Elite",
+      "Soft Fabric",
+      "Storage Space",
+      "3-Seater"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "c359b8c5-8d3c-4415-a574-1769f67c2136",
+    "category": "furniture",
+    "productName": "Prime Sofa",
+    "description": "Comfortable and stylish sofa.",
+    "specification": [
+      "L-shaped - Prime",
+      "Soft Fabric",
+      "Storage Space",
+      "3-Seater - Prime"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "7f7b7038-8e22-4b49-b5bc-026d412aa416",
+    "category": "furniture",
+    "productName": "Smart Sofa",
+    "description": "Comfortable and stylish sofa.",
+    "specification": [
+      "L-shaped - Smart",
+      "Soft Fabric",
+      "Storage Space - Smart",
+      "3-Seater - Smart"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "cb083a7a-75fa-43db-99ea-5fa80bfba6de",
+    "category": "furniture",
+    "productName": "Zenith Office Chair",
+    "description": "Ergonomic office chair for long hours.",
+    "specification": [
+      "Adjustable Height - Zenith",
+      "Mesh Back",
+      "360-degree Swivel",
+      "Padded Armrests"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "c8d19d1e-6c6d-43a4-b62e-db48def69fcb",
+    "category": "furniture",
+    "productName": "Ultra Sofa",
+    "description": "Comfortable and stylish sofa.",
+    "specification": [
+      "L-shaped",
+      "Soft Fabric",
+      "Storage Space",
+      "3-Seater"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "ee06d2f9-f7ee-4633-a560-c1c498359b2c",
+    "category": "furniture",
+    "productName": "Zenith Sofa",
+    "description": "Comfortable and stylish sofa.",
+    "specification": [
+      "L-shaped - Zenith",
+      "Soft Fabric",
+      "Storage Space",
+      "3-Seater"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "bc84815d-608f-4430-841b-358dd1261671",
+    "category": "furniture",
+    "productName": "Max Bookshelf",
+    "description": "Spacious wooden bookshelf.",
+    "specification": [
+      "5 Tiers - Max",
+      "Solid Wood",
+      "Easy Assembly - Max",
+      "Natural Finish"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "a85e27fe-a10b-4443-9251-01c1a07e1476",
+    "category": "furniture",
+    "productName": "Max Bookshelf",
+    "description": "Spacious wooden bookshelf.",
+    "specification": [
+      "5 Tiers",
+      "Solid Wood",
+      "Easy Assembly",
+      "Natural Finish - Max"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "a78877c9-f3e4-4c9f-b03e-b79eb87885e1",
+    "category": "furniture",
+    "productName": "Prime Office Chair",
+    "description": "Ergonomic office chair for long hours.",
+    "specification": [
+      "Adjustable Height - Prime",
+      "Mesh Back - Prime",
+      "360-degree Swivel",
+      "Padded Armrests"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "6764e7c6-d35e-400d-9a8f-335281df5b7b",
+    "category": "furniture",
+    "productName": "Prime Office Chair",
+    "description": "Ergonomic office chair for long hours.",
+    "specification": [
+      "Adjustable Height - Prime",
+      "Mesh Back",
+      "360-degree Swivel",
+      "Padded Armrests"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "65be41eb-ede5-4ee0-8273-901d65dbfca6",
+    "category": "furniture",
+    "productName": "Eco Office Chair",
+    "description": "Ergonomic office chair for long hours.",
+    "specification": [
+      "Adjustable Height - Eco",
+      "Mesh Back - Eco",
+      "360-degree Swivel - Eco",
+      "Padded Armrests - Eco"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "2b3ca31a-b1d9-4f6b-8501-8c1c41f418ca",
+    "category": "furniture",
+    "productName": "Smart Office Chair",
+    "description": "Ergonomic office chair for long hours.",
+    "specification": [
+      "Adjustable Height",
+      "Mesh Back",
+      "360-degree Swivel - Smart",
+      "Padded Armrests - Smart"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "43505fc7-5643-4511-b5cf-09a0629a9b2f",
+    "category": "furniture",
+    "productName": "Eco Sofa",
+    "description": "Comfortable and stylish sofa.",
+    "specification": [
+      "L-shaped",
+      "Soft Fabric",
+      "Storage Space",
+      "3-Seater - Eco"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "1444d562-c5fe-4327-bbfe-c2f6e207a068",
+    "category": "furniture",
+    "productName": "Max Office Chair",
+    "description": "Ergonomic office chair for long hours.",
+    "specification": [
+      "Adjustable Height - Max",
+      "Mesh Back",
+      "360-degree Swivel",
+      "Padded Armrests"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "74e5a6c7-ef1d-4b07-9fd1-aa469d14196d",
+    "category": "furniture",
+    "productName": "Zenith Sofa",
+    "description": "Comfortable and stylish sofa.",
+    "specification": [
+      "L-shaped",
+      "Soft Fabric",
+      "Storage Space",
+      "3-Seater"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "9f429182-6e5f-4626-a45d-d27a5e0b432d",
+    "category": "furniture",
+    "productName": "Vivid Sofa",
+    "description": "Comfortable and stylish sofa.",
+    "specification": [
+      "L-shaped",
+      "Soft Fabric - Vivid",
+      "Storage Space - Vivid",
+      "3-Seater - Vivid"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "a9a53d8e-e415-4876-9392-ab2fdc4accd7",
+    "category": "furniture",
+    "productName": "Max Office Chair",
+    "description": "Ergonomic office chair for long hours.",
+    "specification": [
+      "Adjustable Height",
+      "Mesh Back",
+      "360-degree Swivel",
+      "Padded Armrests"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "be287d69-7562-404b-8503-c10053d5d7a4",
+    "category": "furniture",
+    "productName": "Vivid Bookshelf",
+    "description": "Spacious wooden bookshelf.",
+    "specification": [
+      "5 Tiers - Vivid",
+      "Solid Wood",
+      "Easy Assembly",
+      "Natural Finish"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "d5daea9b-0db8-4a4e-905e-f38d8a47a45c",
+    "category": "furniture",
+    "productName": "Vivid Sofa",
+    "description": "Comfortable and stylish sofa.",
+    "specification": [
+      "L-shaped",
+      "Soft Fabric",
+      "Storage Space",
+      "3-Seater"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "05599673-f17e-4747-a44e-dc7d42a695aa",
+    "category": "furniture",
+    "productName": "Vivid Bookshelf",
+    "description": "Spacious wooden bookshelf.",
+    "specification": [
+      "5 Tiers - Vivid",
+      "Solid Wood",
+      "Easy Assembly - Vivid",
+      "Natural Finish"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "a620d80c-5597-4afa-bd4a-066b4d3b1a15",
+    "category": "furniture",
+    "productName": "Zenith Office Chair",
+    "description": "Ergonomic office chair for long hours.",
+    "specification": [
+      "Adjustable Height - Zenith",
+      "Mesh Back",
+      "360-degree Swivel - Zenith",
+      "Padded Armrests"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "f61f2826-4691-4f87-b562-e0312221810a",
+    "category": "furniture",
+    "productName": "Pro Office Chair",
+    "description": "Ergonomic office chair for long hours.",
+    "specification": [
+      "Adjustable Height",
+      "Mesh Back - Pro",
+      "360-degree Swivel - Pro",
+      "Padded Armrests - Pro"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "e1786798-e8ab-472e-94e9-a0439eb5b5f2",
+    "category": "furniture",
+    "productName": "Zenith Bookshelf",
+    "description": "Spacious wooden bookshelf.",
+    "specification": [
+      "5 Tiers",
+      "Solid Wood",
+      "Easy Assembly",
+      "Natural Finish"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "7b249b82-773c-49c0-b295-f4ea8b82237b",
+    "category": "furniture",
+    "productName": "Nova Sofa",
+    "description": "Comfortable and stylish sofa.",
+    "specification": [
+      "L-shaped",
+      "Soft Fabric",
+      "Storage Space - Nova",
+      "3-Seater"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "64dacd4f-3213-4627-844c-59785b8e65c3",
+    "category": "furniture",
+    "productName": "Elite Office Chair",
+    "description": "Ergonomic office chair for long hours.",
+    "specification": [
+      "Adjustable Height",
+      "Mesh Back",
+      "360-degree Swivel",
+      "Padded Armrests"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "45155198-457c-4bc3-829b-c2dcde15e895",
+    "category": "furniture",
+    "productName": "Vivid Sofa",
+    "description": "Comfortable and stylish sofa.",
+    "specification": [
+      "L-shaped - Vivid",
+      "Soft Fabric - Vivid",
+      "Storage Space",
+      "3-Seater"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "9d0616fe-92b3-4fc2-8fd3-599ecab6a063",
+    "category": "furniture",
+    "productName": "Zenith Bookshelf",
+    "description": "Spacious wooden bookshelf.",
+    "specification": [
+      "5 Tiers",
+      "Solid Wood - Zenith",
+      "Easy Assembly",
+      "Natural Finish - Zenith"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "906fa12c-a13f-48eb-b67d-0985a6a83976",
+    "category": "furniture",
+    "productName": "Vivid Office Chair",
+    "description": "Ergonomic office chair for long hours.",
+    "specification": [
+      "Adjustable Height",
+      "Mesh Back",
+      "360-degree Swivel",
+      "Padded Armrests"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "e1721d7b-fd67-4078-9e1c-3cd36d00a00a",
+    "category": "furniture",
+    "productName": "Max Bookshelf",
+    "description": "Spacious wooden bookshelf.",
+    "specification": [
+      "5 Tiers",
+      "Solid Wood",
+      "Easy Assembly",
+      "Natural Finish"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "a1888c2c-fe8b-4738-aa51-572fb73c5c8c",
+    "category": "furniture",
+    "productName": "Eco Sofa",
+    "description": "Comfortable and stylish sofa.",
+    "specification": [
+      "L-shaped - Eco",
+      "Soft Fabric",
+      "Storage Space",
+      "3-Seater"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "ffb11cf7-1411-4f15-b1ed-65704935a6b4",
+    "category": "furniture",
+    "productName": "Zenith Sofa",
+    "description": "Comfortable and stylish sofa.",
+    "specification": [
+      "L-shaped",
+      "Soft Fabric",
+      "Storage Space",
+      "3-Seater - Zenith"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "ec2fccba-ea91-4ccc-ab5d-a6d105c31ad2",
+    "category": "furniture",
+    "productName": "Eco Office Chair",
+    "description": "Ergonomic office chair for long hours.",
+    "specification": [
+      "Adjustable Height",
+      "Mesh Back - Eco",
+      "360-degree Swivel",
+      "Padded Armrests"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "bd98a813-9ed6-40a0-9e8d-bc4d55636b0f",
+    "category": "furniture",
+    "productName": "Pro Office Chair",
+    "description": "Ergonomic office chair for long hours.",
+    "specification": [
+      "Adjustable Height - Pro",
+      "Mesh Back - Pro",
+      "360-degree Swivel",
+      "Padded Armrests - Pro"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "8e3189ae-4b93-4e3f-978b-7e574c98bfac",
+    "category": "furniture",
+    "productName": "Pro Sofa",
+    "description": "Comfortable and stylish sofa.",
+    "specification": [
+      "L-shaped - Pro",
+      "Soft Fabric",
+      "Storage Space - Pro",
+      "3-Seater - Pro"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "91986923-bd50-4062-ba9a-9f2d6c73bddf",
+    "category": "fashion",
+    "productName": "Smart Sneakers",
+    "description": "Comfortable and stylish sneakers.",
+    "specification": [
+      "Rubber Sole",
+      "Mesh Upper",
+      "Lace-up",
+      "Breathable Design"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "5c4e8171-2751-4920-b552-bd8e1f90f308",
+    "category": "fashion",
+    "productName": "Prime Women's Dress",
+    "description": "Elegant evening dress.",
+    "specification": [
+      "Satin Fabric",
+      "V-neck",
+      "Back Zipper",
+      "Available in Multiple Sizes"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "a0f62ac4-b6cd-42f8-9722-a221b50277b1",
+    "category": "fashion",
+    "productName": "Nova Men's Jacket",
+    "description": "Trendy men's jacket for casual wear.",
+    "specification": [
+      "Waterproof",
+      "Zipper Closure - Nova",
+      "Multiple Pockets",
+      "Cotton Lining"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "0d1991cf-0de8-4020-afd3-d7882d28674c",
+    "category": "fashion",
+    "productName": "Nova Women's Dress",
+    "description": "Elegant evening dress.",
+    "specification": [
+      "Satin Fabric",
+      "V-neck - Nova",
+      "Back Zipper",
+      "Available in Multiple Sizes"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "b0be5b89-46e9-4f02-a476-fbc06c4d24a2",
+    "category": "fashion",
+    "productName": "Elite Men's Jacket",
+    "description": "Trendy men's jacket for casual wear.",
+    "specification": [
+      "Waterproof",
+      "Zipper Closure",
+      "Multiple Pockets",
+      "Cotton Lining"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "8e8db416-9c9b-4885-983d-215fdc674958",
+    "category": "fashion",
+    "productName": "Max Women's Dress",
+    "description": "Elegant evening dress.",
+    "specification": [
+      "Satin Fabric",
+      "V-neck - Max",
+      "Back Zipper - Max",
+      "Available in Multiple Sizes"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "8fcf35a0-b389-47a4-ab6b-23755cdc1ebf",
+    "category": "fashion",
+    "productName": "Vivid Women's Dress",
+    "description": "Elegant evening dress.",
+    "specification": [
+      "Satin Fabric - Vivid",
+      "V-neck",
+      "Back Zipper",
+      "Available in Multiple Sizes"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "39d9112b-cb50-41ca-86f6-fbba3a2770a3",
+    "category": "fashion",
+    "productName": "Vivid Men's Jacket",
+    "description": "Trendy men's jacket for casual wear.",
+    "specification": [
+      "Waterproof",
+      "Zipper Closure - Vivid",
+      "Multiple Pockets",
+      "Cotton Lining"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "a9a05678-c903-4974-9c2a-425a45c2fa1d",
+    "category": "fashion",
+    "productName": "Elite Sneakers",
+    "description": "Comfortable and stylish sneakers.",
+    "specification": [
+      "Rubber Sole - Elite",
+      "Mesh Upper - Elite",
+      "Lace-up",
+      "Breathable Design"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "cff8378f-350b-49d9-ba97-19d9126e5866",
+    "category": "fashion",
+    "productName": "Eco Men's Jacket",
+    "description": "Trendy men's jacket for casual wear.",
+    "specification": [
+      "Waterproof - Eco",
+      "Zipper Closure - Eco",
+      "Multiple Pockets",
+      "Cotton Lining"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "edf21000-b54c-4c92-bfca-7ae9b933b67f",
+    "category": "fashion",
+    "productName": "Ultra Women's Dress",
+    "description": "Elegant evening dress.",
+    "specification": [
+      "Satin Fabric",
+      "V-neck - Ultra",
+      "Back Zipper - Ultra",
+      "Available in Multiple Sizes"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "97512748-b33f-4fe8-a467-ef863f8a83a6",
+    "category": "fashion",
+    "productName": "Zenith Sneakers",
+    "description": "Comfortable and stylish sneakers.",
+    "specification": [
+      "Rubber Sole - Zenith",
+      "Mesh Upper - Zenith",
+      "Lace-up - Zenith",
+      "Breathable Design"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "d1d1bcd9-b056-4928-8e58-637dec79edd6",
+    "category": "fashion",
+    "productName": "Eco Women's Dress",
+    "description": "Elegant evening dress.",
+    "specification": [
+      "Satin Fabric",
+      "V-neck - Eco",
+      "Back Zipper",
+      "Available in Multiple Sizes"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "e501ddfa-a75c-4f87-9bc7-99a9761ed540",
+    "category": "fashion",
+    "productName": "Eco Men's Jacket",
+    "description": "Trendy men's jacket for casual wear.",
+    "specification": [
+      "Waterproof",
+      "Zipper Closure - Eco",
+      "Multiple Pockets",
+      "Cotton Lining"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "7fd104c1-516a-4e53-b045-cb7d28bc3f24",
+    "category": "fashion",
+    "productName": "Max Sneakers",
+    "description": "Comfortable and stylish sneakers.",
+    "specification": [
+      "Rubber Sole",
+      "Mesh Upper",
+      "Lace-up - Max",
+      "Breathable Design"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "18e5dae1-5dc6-41e6-8386-d50a15d4111a",
+    "category": "fashion",
+    "productName": "Eco Women's Dress",
+    "description": "Elegant evening dress.",
+    "specification": [
+      "Satin Fabric",
+      "V-neck - Eco",
+      "Back Zipper - Eco",
+      "Available in Multiple Sizes - Eco"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "d4a3cedf-293d-4ef1-b8a5-14cb070a37eb",
+    "category": "fashion",
+    "productName": "Pro Men's Jacket",
+    "description": "Trendy men's jacket for casual wear.",
+    "specification": [
+      "Waterproof",
+      "Zipper Closure - Pro",
+      "Multiple Pockets",
+      "Cotton Lining - Pro"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "6029684b-a9ce-480d-895b-5f567f5f7399",
+    "category": "fashion",
+    "productName": "Vivid Sneakers",
+    "description": "Comfortable and stylish sneakers.",
+    "specification": [
+      "Rubber Sole",
+      "Mesh Upper",
+      "Lace-up - Vivid",
+      "Breathable Design"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "ffe03cb4-5df4-4ef5-b281-5288d208029b",
+    "category": "fashion",
+    "productName": "Pro Women's Dress",
+    "description": "Elegant evening dress.",
+    "specification": [
+      "Satin Fabric",
+      "V-neck",
+      "Back Zipper",
+      "Available in Multiple Sizes"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "0e261a2c-785e-4893-84ef-265bb58c27a6",
+    "category": "fashion",
+    "productName": "Max Sneakers",
+    "description": "Comfortable and stylish sneakers.",
+    "specification": [
+      "Rubber Sole",
+      "Mesh Upper",
+      "Lace-up",
+      "Breathable Design"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "a0a78a47-f0b8-4176-9d0d-93d76c0ec51e",
+    "category": "fashion",
+    "productName": "Vivid Sneakers",
+    "description": "Comfortable and stylish sneakers.",
+    "specification": [
+      "Rubber Sole",
+      "Mesh Upper",
+      "Lace-up",
+      "Breathable Design"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "a6204b7a-bd31-41f8-9482-214069e1fd03",
+    "category": "fashion",
+    "productName": "Pro Sneakers",
+    "description": "Comfortable and stylish sneakers.",
+    "specification": [
+      "Rubber Sole",
+      "Mesh Upper",
+      "Lace-up - Pro",
+      "Breathable Design"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "965f0e9b-3ed9-4f76-a29f-c336bf0bf4ec",
+    "category": "fashion",
+    "productName": "Ultra Men's Jacket",
+    "description": "Trendy men's jacket for casual wear.",
+    "specification": [
+      "Waterproof",
+      "Zipper Closure",
+      "Multiple Pockets",
+      "Cotton Lining"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "0f37ffe3-dfae-474c-a6d9-1d0670ebe5e7",
+    "category": "fashion",
+    "productName": "Smart Women's Dress",
+    "description": "Elegant evening dress.",
+    "specification": [
+      "Satin Fabric",
+      "V-neck - Smart",
+      "Back Zipper",
+      "Available in Multiple Sizes"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "f40985b2-c00d-44de-a295-49c212e8fa0d",
+    "category": "fashion",
+    "productName": "Nova Women's Dress",
+    "description": "Elegant evening dress.",
+    "specification": [
+      "Satin Fabric - Nova",
+      "V-neck",
+      "Back Zipper",
+      "Available in Multiple Sizes"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "6fbe2825-7f08-4b59-b3fc-ca3e4cf45608",
+    "category": "fashion",
+    "productName": "Nova Men's Jacket",
+    "description": "Trendy men's jacket for casual wear.",
+    "specification": [
+      "Waterproof",
+      "Zipper Closure",
+      "Multiple Pockets",
+      "Cotton Lining"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "6a511080-5464-4125-a333-eead274fd241",
+    "category": "fashion",
+    "productName": "Zenith Sneakers",
+    "description": "Comfortable and stylish sneakers.",
+    "specification": [
+      "Rubber Sole",
+      "Mesh Upper - Zenith",
+      "Lace-up",
+      "Breathable Design - Zenith"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "c4310288-ab88-4d76-8b3c-5104c2471cec",
+    "category": "fashion",
+    "productName": "Nova Men's Jacket",
+    "description": "Trendy men's jacket for casual wear.",
+    "specification": [
+      "Waterproof - Nova",
+      "Zipper Closure",
+      "Multiple Pockets - Nova",
+      "Cotton Lining"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "cb375a30-4e70-4e76-9f0c-f360d0eea4f0",
+    "category": "fashion",
+    "productName": "Smart Women's Dress",
+    "description": "Elegant evening dress.",
+    "specification": [
+      "Satin Fabric",
+      "V-neck",
+      "Back Zipper",
+      "Available in Multiple Sizes"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "85eaebd2-b4a0-4db5-b6ab-5e1c5c0aa876",
+    "category": "fashion",
+    "productName": "Eco Women's Dress",
+    "description": "Elegant evening dress.",
+    "specification": [
+      "Satin Fabric",
+      "V-neck",
+      "Back Zipper",
+      "Available in Multiple Sizes"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "4cfea31e-b105-4d33-933c-565803c22d76",
+    "category": "fashion",
+    "productName": "Zenith Women's Dress",
+    "description": "Elegant evening dress.",
+    "specification": [
+      "Satin Fabric",
+      "V-neck",
+      "Back Zipper",
+      "Available in Multiple Sizes"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "0d025073-1490-4a3e-99fe-14f034da1e03",
+    "category": "fashion",
+    "productName": "Max Men's Jacket",
+    "description": "Trendy men's jacket for casual wear.",
+    "specification": [
+      "Waterproof - Max",
+      "Zipper Closure - Max",
+      "Multiple Pockets",
+      "Cotton Lining - Max"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "75484148-0104-47cc-bcbf-972fafdfc73e",
+    "category": "fashion",
+    "productName": "Smart Men's Jacket",
+    "description": "Trendy men's jacket for casual wear.",
+    "specification": [
+      "Waterproof",
+      "Zipper Closure",
+      "Multiple Pockets",
+      "Cotton Lining"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "bd1bbbee-af2e-41ee-86ce-56040ac81a02",
+    "category": "fashion",
+    "productName": "Nova Men's Jacket",
+    "description": "Trendy men's jacket for casual wear.",
+    "specification": [
+      "Waterproof - Nova",
+      "Zipper Closure",
+      "Multiple Pockets",
+      "Cotton Lining - Nova"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "1d1d7c89-49f8-4244-bd3f-7b77cf8490d4",
+    "category": "fashion",
+    "productName": "Eco Men's Jacket",
+    "description": "Trendy men's jacket for casual wear.",
+    "specification": [
+      "Waterproof - Eco",
+      "Zipper Closure",
+      "Multiple Pockets",
+      "Cotton Lining - Eco"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "c9bb5014-be07-4c2e-8416-2029d53885f1",
+    "category": "toys",
+    "productName": "Elite Building Blocks",
+    "description": "Colorful interlocking blocks.",
+    "specification": [
+      "100 Pieces",
+      "Non-Toxic",
+      "Educational - Elite",
+      "For Ages 3+"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "8977c6ef-e51c-4fda-a9aa-7244d6201415",
+    "category": "toys",
+    "productName": "Max Building Blocks",
+    "description": "Colorful interlocking blocks.",
+    "specification": [
+      "100 Pieces",
+      "Non-Toxic",
+      "Educational - Max",
+      "For Ages 3+"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "2505202a-f388-4e06-8735-bd21cbc82f8d",
+    "category": "toys",
+    "productName": "Vivid Building Blocks",
+    "description": "Colorful interlocking blocks.",
+    "specification": [
+      "100 Pieces",
+      "Non-Toxic",
+      "Educational - Vivid",
+      "For Ages 3+"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "10872985-19d7-430b-834e-ea345881d77f",
+    "category": "toys",
+    "productName": "Smart Building Blocks",
+    "description": "Colorful interlocking blocks.",
+    "specification": [
+      "100 Pieces",
+      "Non-Toxic - Smart",
+      "Educational",
+      "For Ages 3+ - Smart"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "fdc86728-c7e7-4b51-b204-ffe96feba9bb",
+    "category": "toys",
+    "productName": "Pro Remote Control Car",
+    "description": "Fast RC car for kids.",
+    "specification": [
+      "Rechargeable - Pro",
+      "2.4GHz Frequency",
+      "Shock Absorbers",
+      "LED Lights"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "a9f86d7b-c7da-4a5a-abab-a0a837fdb017",
+    "category": "toys",
+    "productName": "Elite Remote Control Car",
+    "description": "Fast RC car for kids.",
+    "specification": [
+      "Rechargeable",
+      "2.4GHz Frequency",
+      "Shock Absorbers",
+      "LED Lights"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "4f1e3d08-f4c0-4b56-aeee-b50ead7ea1f9",
+    "category": "toys",
+    "productName": "Ultra Building Blocks",
+    "description": "Colorful interlocking blocks.",
+    "specification": [
+      "100 Pieces - Ultra",
+      "Non-Toxic - Ultra",
+      "Educational",
+      "For Ages 3+ - Ultra"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "e426a9d6-c125-4f04-8e30-030e062732ca",
+    "category": "toys",
+    "productName": "Vivid Building Blocks",
+    "description": "Colorful interlocking blocks.",
+    "specification": [
+      "100 Pieces",
+      "Non-Toxic",
+      "Educational - Vivid",
+      "For Ages 3+ - Vivid"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "e65a8810-7665-4601-863c-d1517ecc6b20",
+    "category": "toys",
+    "productName": "Smart Remote Control Car",
+    "description": "Fast RC car for kids.",
+    "specification": [
+      "Rechargeable",
+      "2.4GHz Frequency",
+      "Shock Absorbers",
+      "LED Lights"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "030bd4fe-33e7-46b3-a0e8-5c718df74e0e",
+    "category": "toys",
+    "productName": "Vivid Remote Control Car",
+    "description": "Fast RC car for kids.",
+    "specification": [
+      "Rechargeable",
+      "2.4GHz Frequency - Vivid",
+      "Shock Absorbers",
+      "LED Lights"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "e3974ce9-b565-41f1-9f7a-e0623831ed75",
+    "category": "toys",
+    "productName": "Ultra Building Blocks",
+    "description": "Colorful interlocking blocks.",
+    "specification": [
+      "100 Pieces",
+      "Non-Toxic - Ultra",
+      "Educational",
+      "For Ages 3+ - Ultra"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "865ca8fd-bb6e-4e22-b0e6-60928083d7cb",
+    "category": "toys",
+    "productName": "Elite Remote Control Car",
+    "description": "Fast RC car for kids.",
+    "specification": [
+      "Rechargeable",
+      "2.4GHz Frequency",
+      "Shock Absorbers",
+      "LED Lights"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "42fe1368-9b99-43a7-898b-d1a7b9260c2b",
+    "category": "toys",
+    "productName": "Ultra Building Blocks",
+    "description": "Colorful interlocking blocks.",
+    "specification": [
+      "100 Pieces - Ultra",
+      "Non-Toxic",
+      "Educational",
+      "For Ages 3+"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "b71fd43e-d264-4594-8d4c-f33d8c962501",
+    "category": "toys",
+    "productName": "Nova Building Blocks",
+    "description": "Colorful interlocking blocks.",
+    "specification": [
+      "100 Pieces",
+      "Non-Toxic - Nova",
+      "Educational",
+      "For Ages 3+"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "d7034cd1-4a3b-46ae-968c-f3c3773cad2e",
+    "category": "toys",
+    "productName": "Eco Building Blocks",
+    "description": "Colorful interlocking blocks.",
+    "specification": [
+      "100 Pieces",
+      "Non-Toxic",
+      "Educational - Eco",
+      "For Ages 3+ - Eco"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "1e6f5d93-216c-4ca7-9c62-407dcc234c71",
+    "category": "toys",
+    "productName": "Elite Building Blocks",
+    "description": "Colorful interlocking blocks.",
+    "specification": [
+      "100 Pieces - Elite",
+      "Non-Toxic - Elite",
+      "Educational - Elite",
+      "For Ages 3+"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "f3cff27a-b3bb-446c-a556-0f3ad7ab5614",
+    "category": "toys",
+    "productName": "Zenith Remote Control Car",
+    "description": "Fast RC car for kids.",
+    "specification": [
+      "Rechargeable",
+      "2.4GHz Frequency",
+      "Shock Absorbers",
+      "LED Lights"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "29e53939-d869-4af3-b9a2-b5b768eaff0d",
+    "category": "toys",
+    "productName": "Max Remote Control Car",
+    "description": "Fast RC car for kids.",
+    "specification": [
+      "Rechargeable",
+      "2.4GHz Frequency - Max",
+      "Shock Absorbers",
+      "LED Lights"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "f04ed347-1dd4-41ee-b094-554bbb343110",
+    "category": "toys",
+    "productName": "Pro Remote Control Car",
+    "description": "Fast RC car for kids.",
+    "specification": [
+      "Rechargeable",
+      "2.4GHz Frequency",
+      "Shock Absorbers",
+      "LED Lights"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "0a884eff-1128-4180-97e4-ca7b0590f9d2",
+    "category": "toys",
+    "productName": "Zenith Remote Control Car",
+    "description": "Fast RC car for kids.",
+    "specification": [
+      "Rechargeable - Zenith",
+      "2.4GHz Frequency",
+      "Shock Absorbers",
+      "LED Lights"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "6c3e0e1f-a34b-4ea8-b2b6-6c80a90eca61",
+    "category": "toys",
+    "productName": "Zenith Remote Control Car",
+    "description": "Fast RC car for kids.",
+    "specification": [
+      "Rechargeable - Zenith",
+      "2.4GHz Frequency - Zenith",
+      "Shock Absorbers - Zenith",
+      "LED Lights - Zenith"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "d4807222-e8a5-4262-9d63-13088e422e24",
+    "category": "toys",
+    "productName": "Eco Remote Control Car",
+    "description": "Fast RC car for kids.",
+    "specification": [
+      "Rechargeable",
+      "2.4GHz Frequency",
+      "Shock Absorbers",
+      "LED Lights"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "de5c68ca-c7b8-4c1f-a815-145f1c2eb9a7",
+    "category": "toys",
+    "productName": "Nova Building Blocks",
+    "description": "Colorful interlocking blocks.",
+    "specification": [
+      "100 Pieces - Nova",
+      "Non-Toxic - Nova",
+      "Educational",
+      "For Ages 3+"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "0038bdaf-732d-4652-860a-5a5546b15e64",
+    "category": "toys",
+    "productName": "Ultra Remote Control Car",
+    "description": "Fast RC car for kids.",
+    "specification": [
+      "Rechargeable",
+      "2.4GHz Frequency",
+      "Shock Absorbers",
+      "LED Lights - Ultra"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "c93ae0a8-ebfa-445b-b369-5b3d97a4d408",
+    "category": "toys",
+    "productName": "Nova Remote Control Car",
+    "description": "Fast RC car for kids.",
+    "specification": [
+      "Rechargeable - Nova",
+      "2.4GHz Frequency - Nova",
+      "Shock Absorbers",
+      "LED Lights"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "67e87226-4d1a-459f-91df-b93c9994720c",
+    "category": "toys",
+    "productName": "Ultra Building Blocks",
+    "description": "Colorful interlocking blocks.",
+    "specification": [
+      "100 Pieces - Ultra",
+      "Non-Toxic - Ultra",
+      "Educational",
+      "For Ages 3+ - Ultra"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "19433a9d-8ec0-40ca-92e5-effc124a8a7f",
+    "category": "toys",
+    "productName": "Pro Building Blocks",
+    "description": "Colorful interlocking blocks.",
+    "specification": [
+      "100 Pieces - Pro",
+      "Non-Toxic",
+      "Educational",
+      "For Ages 3+"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "983c3d14-0880-4f9d-a9db-a1de25de798e",
+    "category": "toys",
+    "productName": "Eco Building Blocks",
+    "description": "Colorful interlocking blocks.",
+    "specification": [
+      "100 Pieces",
+      "Non-Toxic",
+      "Educational",
+      "For Ages 3+"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "51a303dd-c1b3-4af9-8758-0eb6248d5c8a",
+    "category": "toys",
+    "productName": "Elite Remote Control Car",
+    "description": "Fast RC car for kids.",
+    "specification": [
+      "Rechargeable",
+      "2.4GHz Frequency - Elite",
+      "Shock Absorbers",
+      "LED Lights"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "c3c5b5ab-0d6c-41b5-ac69-d520cd5b5ba8",
+    "category": "toys",
+    "productName": "Zenith Remote Control Car",
+    "description": "Fast RC car for kids.",
+    "specification": [
+      "Rechargeable",
+      "2.4GHz Frequency",
+      "Shock Absorbers",
+      "LED Lights - Zenith"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "a14ed50e-9378-45a3-bb17-da8833a0d84b",
+    "category": "toys",
+    "productName": "Vivid Remote Control Car",
+    "description": "Fast RC car for kids.",
+    "specification": [
+      "Rechargeable",
+      "2.4GHz Frequency",
+      "Shock Absorbers",
+      "LED Lights - Vivid"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "a5a12705-936d-4726-b0d0-4f0f7eb6db84",
+    "category": "toys",
+    "productName": "Zenith Remote Control Car",
+    "description": "Fast RC car for kids.",
+    "specification": [
+      "Rechargeable - Zenith",
+      "2.4GHz Frequency",
+      "Shock Absorbers",
+      "LED Lights - Zenith"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "a0e4b21c-1004-4a2f-83ff-65885389115e",
+    "category": "toys",
+    "productName": "Elite Building Blocks",
+    "description": "Colorful interlocking blocks.",
+    "specification": [
+      "100 Pieces",
+      "Non-Toxic",
+      "Educational - Elite",
+      "For Ages 3+ - Elite"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "708a5e7e-21a8-4ebb-990d-63121fba221a",
+    "category": "toys",
+    "productName": "Pro Building Blocks",
+    "description": "Colorful interlocking blocks.",
+    "specification": [
+      "100 Pieces",
+      "Non-Toxic",
+      "Educational",
+      "For Ages 3+ - Pro"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "52428ff4-8635-4a4e-9343-6d4ff34fe92f",
+    "category": "toys",
+    "productName": "Zenith Building Blocks",
+    "description": "Colorful interlocking blocks.",
+    "specification": [
+      "100 Pieces - Zenith",
+      "Non-Toxic",
+      "Educational",
+      "For Ages 3+"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "6743aa74-ed81-41e8-95da-200b3259cd8c",
+    "category": "sports",
+    "productName": "Nova Football",
+    "description": "Professional size football.",
+    "specification": [
+      "Synthetic Leather - Nova",
+      "Machine Stitched",
+      "Water Resistant - Nova",
+      "Size 5"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "214cde57-b16d-43d0-88df-3c096ab1f3cb",
+    "category": "sports",
+    "productName": "Prime Football",
+    "description": "Professional size football.",
+    "specification": [
+      "Synthetic Leather - Prime",
+      "Machine Stitched",
+      "Water Resistant - Prime",
+      "Size 5"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "3c512bf1-7f59-4e58-afe5-c4db6cd93abb",
+    "category": "sports",
+    "productName": "Vivid Yoga Mat",
+    "description": "Non-slip yoga mat for workouts.",
+    "specification": [
+      "Eco-friendly Material",
+      "6mm Thickness",
+      "Easy to Clean - Vivid",
+      "Carry Strap"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "cdb81c1f-5212-49ad-967a-5b5ae8ceb8b6",
+    "category": "sports",
+    "productName": "Nova Yoga Mat",
+    "description": "Non-slip yoga mat for workouts.",
+    "specification": [
+      "Eco-friendly Material",
+      "6mm Thickness",
+      "Easy to Clean",
+      "Carry Strap - Nova"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "b1e93889-e44d-47ed-9257-d3c5d1f2eb81",
+    "category": "sports",
+    "productName": "Pro Football",
+    "description": "Professional size football.",
+    "specification": [
+      "Synthetic Leather",
+      "Machine Stitched",
+      "Water Resistant - Pro",
+      "Size 5 - Pro"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "e69675a4-7856-459a-a0d8-13968328db5f",
+    "category": "sports",
+    "productName": "Smart Football",
+    "description": "Professional size football.",
+    "specification": [
+      "Synthetic Leather",
+      "Machine Stitched",
+      "Water Resistant - Smart",
+      "Size 5 - Smart"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "a110fb14-ee89-4e87-9879-9ff6926b366f",
+    "category": "sports",
+    "productName": "Zenith Yoga Mat",
+    "description": "Non-slip yoga mat for workouts.",
+    "specification": [
+      "Eco-friendly Material",
+      "6mm Thickness",
+      "Easy to Clean",
+      "Carry Strap"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "0606444f-ff73-415c-95e4-a6740da6d9eb",
+    "category": "sports",
+    "productName": "Pro Football",
+    "description": "Professional size football.",
+    "specification": [
+      "Synthetic Leather - Pro",
+      "Machine Stitched - Pro",
+      "Water Resistant",
+      "Size 5 - Pro"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "cb89b2f1-5315-4d42-b707-3b17863f9ba7",
+    "category": "sports",
+    "productName": "Prime Yoga Mat",
+    "description": "Non-slip yoga mat for workouts.",
+    "specification": [
+      "Eco-friendly Material",
+      "6mm Thickness",
+      "Easy to Clean - Prime",
+      "Carry Strap"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "5efde389-b2a0-4f46-807c-06c9e2d27d14",
+    "category": "sports",
+    "productName": "Smart Football",
+    "description": "Professional size football.",
+    "specification": [
+      "Synthetic Leather",
+      "Machine Stitched",
+      "Water Resistant - Smart",
+      "Size 5"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "54d54dbd-a322-4e34-a53f-07241c340552",
+    "category": "sports",
+    "productName": "Vivid Yoga Mat",
+    "description": "Non-slip yoga mat for workouts.",
+    "specification": [
+      "Eco-friendly Material",
+      "6mm Thickness",
+      "Easy to Clean",
+      "Carry Strap"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "4e8693d3-015b-4570-a7d1-10661b817723",
+    "category": "sports",
+    "productName": "Max Yoga Mat",
+    "description": "Non-slip yoga mat for workouts.",
+    "specification": [
+      "Eco-friendly Material",
+      "6mm Thickness",
+      "Easy to Clean - Max",
+      "Carry Strap - Max"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "661a1a59-c845-420d-9f39-2e1c7549c36c",
+    "category": "sports",
+    "productName": "Max Yoga Mat",
+    "description": "Non-slip yoga mat for workouts.",
+    "specification": [
+      "Eco-friendly Material",
+      "6mm Thickness",
+      "Easy to Clean",
+      "Carry Strap - Max"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "fec185f5-1e8a-46fd-98f1-4322c721809b",
+    "category": "sports",
+    "productName": "Ultra Football",
+    "description": "Professional size football.",
+    "specification": [
+      "Synthetic Leather - Ultra",
+      "Machine Stitched - Ultra",
+      "Water Resistant",
+      "Size 5 - Ultra"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "2e7d51f6-0aff-40d0-9fc7-19b0519227a3",
+    "category": "sports",
+    "productName": "Smart Yoga Mat",
+    "description": "Non-slip yoga mat for workouts.",
+    "specification": [
+      "Eco-friendly Material",
+      "6mm Thickness",
+      "Easy to Clean - Smart",
+      "Carry Strap"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "e4fcf73b-47da-4357-840a-f9c50cb5a38d",
+    "category": "sports",
+    "productName": "Smart Yoga Mat",
+    "description": "Non-slip yoga mat for workouts.",
+    "specification": [
+      "Eco-friendly Material",
+      "6mm Thickness",
+      "Easy to Clean",
+      "Carry Strap - Smart"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "4fd113c1-815e-44f7-b1f7-77c8af699d08",
+    "category": "sports",
+    "productName": "Smart Football",
+    "description": "Professional size football.",
+    "specification": [
+      "Synthetic Leather",
+      "Machine Stitched",
+      "Water Resistant",
+      "Size 5"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "5e936fae-00a5-482c-a3a6-6ec70fa8588d",
+    "category": "sports",
+    "productName": "Vivid Football",
+    "description": "Professional size football.",
+    "specification": [
+      "Synthetic Leather - Vivid",
+      "Machine Stitched",
+      "Water Resistant - Vivid",
+      "Size 5 - Vivid"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "08e5666a-7ee3-48d1-8e3e-cb10c8cd887b",
+    "category": "sports",
+    "productName": "Smart Yoga Mat",
+    "description": "Non-slip yoga mat for workouts.",
+    "specification": [
+      "Eco-friendly Material",
+      "6mm Thickness",
+      "Easy to Clean - Smart",
+      "Carry Strap"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "10f30fff-9b8d-4f23-b2c8-69d19de15e69",
+    "category": "sports",
+    "productName": "Eco Football",
+    "description": "Professional size football.",
+    "specification": [
+      "Synthetic Leather",
+      "Machine Stitched",
+      "Water Resistant",
+      "Size 5"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "474f86ae-f851-4bc1-a054-235a13d93fa5",
+    "category": "sports",
+    "productName": "Vivid Yoga Mat",
+    "description": "Non-slip yoga mat for workouts.",
+    "specification": [
+      "Eco-friendly Material",
+      "6mm Thickness - Vivid",
+      "Easy to Clean",
+      "Carry Strap"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "95f6a5f2-9e3e-478a-9ea3-1f7114dc0750",
+    "category": "sports",
+    "productName": "Ultra Yoga Mat",
+    "description": "Non-slip yoga mat for workouts.",
+    "specification": [
+      "Eco-friendly Material",
+      "6mm Thickness - Ultra",
+      "Easy to Clean - Ultra",
+      "Carry Strap"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "72f9cc59-2d0f-4740-b37c-3a508696b2cd",
+    "category": "sports",
+    "productName": "Ultra Football",
+    "description": "Professional size football.",
+    "specification": [
+      "Synthetic Leather - Ultra",
+      "Machine Stitched - Ultra",
+      "Water Resistant",
+      "Size 5"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "a013641c-94b8-4c76-8993-c45a68c447bc",
+    "category": "sports",
+    "productName": "Pro Football",
+    "description": "Professional size football.",
+    "specification": [
+      "Synthetic Leather",
+      "Machine Stitched - Pro",
+      "Water Resistant - Pro",
+      "Size 5"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "9346a664-4887-411b-a3ba-d359e9880f2e",
+    "category": "sports",
+    "productName": "Eco Football",
+    "description": "Professional size football.",
+    "specification": [
+      "Synthetic Leather - Eco",
+      "Machine Stitched",
+      "Water Resistant",
+      "Size 5 - Eco"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "da67c0ce-144e-4cc6-90dc-0bdcce962378",
+    "category": "sports",
+    "productName": "Pro Football",
+    "description": "Professional size football.",
+    "specification": [
+      "Synthetic Leather",
+      "Machine Stitched",
+      "Water Resistant",
+      "Size 5 - Pro"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "634dc770-05f3-4dba-90a6-9277f5727e58",
+    "category": "sports",
+    "productName": "Smart Yoga Mat",
+    "description": "Non-slip yoga mat for workouts.",
+    "specification": [
+      "Eco-friendly Material",
+      "6mm Thickness",
+      "Easy to Clean",
+      "Carry Strap"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "f0b9eae7-f0b6-4d3a-803d-e2fd4e12b0c4",
+    "category": "sports",
+    "productName": "Max Yoga Mat",
+    "description": "Non-slip yoga mat for workouts.",
+    "specification": [
+      "Eco-friendly Material",
+      "6mm Thickness",
+      "Easy to Clean",
+      "Carry Strap"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "6560039a-1da6-4953-82e9-2a27193fd615",
+    "category": "sports",
+    "productName": "Eco Yoga Mat",
+    "description": "Non-slip yoga mat for workouts.",
+    "specification": [
+      "Eco-friendly Material",
+      "6mm Thickness",
+      "Easy to Clean - Eco",
+      "Carry Strap"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "272711f7-6a78-4dce-a6ba-4f3b154a7b1c",
+    "category": "sports",
+    "productName": "Eco Yoga Mat",
+    "description": "Non-slip yoga mat for workouts.",
+    "specification": [
+      "Eco-friendly Material - Eco",
+      "6mm Thickness",
+      "Easy to Clean",
+      "Carry Strap"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "b5a21582-bd05-4781-a2ea-e19a71e5af04",
+    "category": "sports",
+    "productName": "Prime Football",
+    "description": "Professional size football.",
+    "specification": [
+      "Synthetic Leather",
+      "Machine Stitched - Prime",
+      "Water Resistant - Prime",
+      "Size 5"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "ae07c48f-3be2-45a8-b80c-03bdda55573d",
+    "category": "sports",
+    "productName": "Eco Yoga Mat",
+    "description": "Non-slip yoga mat for workouts.",
+    "specification": [
+      "Eco-friendly Material",
+      "6mm Thickness - Eco",
+      "Easy to Clean",
+      "Carry Strap - Eco"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "63e2e7f1-2440-4618-b619-abee9ef396f5",
+    "category": "sports",
+    "productName": "Max Yoga Mat",
+    "description": "Non-slip yoga mat for workouts.",
+    "specification": [
+      "Eco-friendly Material - Max",
+      "6mm Thickness",
+      "Easy to Clean",
+      "Carry Strap"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "7bf4dd19-04dc-46bb-9a97-13e9df1ec1c9",
+    "category": "sports",
+    "productName": "Eco Football",
+    "description": "Professional size football.",
+    "specification": [
+      "Synthetic Leather - Eco",
+      "Machine Stitched - Eco",
+      "Water Resistant",
+      "Size 5 - Eco"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "65f6b5aa-da7a-4a83-b168-84e7841ff4f9",
+    "category": "sports",
+    "productName": "Nova Yoga Mat",
+    "description": "Non-slip yoga mat for workouts.",
+    "specification": [
+      "Eco-friendly Material",
+      "6mm Thickness",
+      "Easy to Clean",
+      "Carry Strap - Nova"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "e126224b-88a4-4633-a5d0-4ef7db477286",
+    "category": "beauty",
+    "productName": "Pro Face Cream",
+    "description": "Hydrating and brightening face cream.",
+    "specification": [
+      "For All Skin Types",
+      "Paraben-Free - Pro",
+      "Vitamin C Enriched - Pro",
+      "50ml"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "862796a2-cb77-4d11-87b1-ca08a3b49463",
+    "category": "beauty",
+    "productName": "Smart Hair Dryer",
+    "description": "Compact and powerful hair dryer.",
+    "specification": [
+      "3 Heat Settings - Smart",
+      "Cool Shot",
+      "Foldable Handle",
+      "1200W Power"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "0ae554b2-b672-4eb6-bfd8-6a96b2465bde",
+    "category": "beauty",
+    "productName": "Nova Face Cream",
+    "description": "Hydrating and brightening face cream.",
+    "specification": [
+      "For All Skin Types",
+      "Paraben-Free - Nova",
+      "Vitamin C Enriched - Nova",
+      "50ml"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "e89e6050-7ae1-4b15-9177-70510a5a321c",
+    "category": "beauty",
+    "productName": "Elite Face Cream",
+    "description": "Hydrating and brightening face cream.",
+    "specification": [
+      "For All Skin Types",
+      "Paraben-Free",
+      "Vitamin C Enriched",
+      "50ml"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "a24542ce-2bb1-4b88-ac7f-940d4b635a31",
+    "category": "beauty",
+    "productName": "Ultra Face Cream",
+    "description": "Hydrating and brightening face cream.",
+    "specification": [
+      "For All Skin Types",
+      "Paraben-Free",
+      "Vitamin C Enriched",
+      "50ml"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "2a3eaa43-133d-4139-bcb7-b7b49c94f812",
+    "category": "beauty",
+    "productName": "Prime Hair Dryer",
+    "description": "Compact and powerful hair dryer.",
+    "specification": [
+      "3 Heat Settings",
+      "Cool Shot",
+      "Foldable Handle",
+      "1200W Power"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "cc365bf6-d43c-4e3e-aa1f-8a562fd1dd5a",
+    "category": "beauty",
+    "productName": "Vivid Face Cream",
+    "description": "Hydrating and brightening face cream.",
+    "specification": [
+      "For All Skin Types",
+      "Paraben-Free",
+      "Vitamin C Enriched",
+      "50ml"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "d4f7f01d-fc10-4370-bb34-a2d8b6cb6408",
+    "category": "beauty",
+    "productName": "Eco Face Cream",
+    "description": "Hydrating and brightening face cream.",
+    "specification": [
+      "For All Skin Types",
+      "Paraben-Free",
+      "Vitamin C Enriched - Eco",
+      "50ml - Eco"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "f53f91ad-3092-4ac2-af77-e3d179a33b97",
+    "category": "beauty",
+    "productName": "Max Hair Dryer",
+    "description": "Compact and powerful hair dryer.",
+    "specification": [
+      "3 Heat Settings",
+      "Cool Shot - Max",
+      "Foldable Handle",
+      "1200W Power"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "af49fedf-2643-4a89-a324-9aa4851629f0",
+    "category": "beauty",
+    "productName": "Zenith Hair Dryer",
+    "description": "Compact and powerful hair dryer.",
+    "specification": [
+      "3 Heat Settings",
+      "Cool Shot",
+      "Foldable Handle - Zenith",
+      "1200W Power"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "e749f994-0b96-4006-ba25-c34920a77eee",
+    "category": "beauty",
+    "productName": "Smart Face Cream",
+    "description": "Hydrating and brightening face cream.",
+    "specification": [
+      "For All Skin Types",
+      "Paraben-Free",
+      "Vitamin C Enriched - Smart",
+      "50ml"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "b2b678f2-be46-4292-b198-dee699c88453",
+    "category": "beauty",
+    "productName": "Zenith Face Cream",
+    "description": "Hydrating and brightening face cream.",
+    "specification": [
+      "For All Skin Types",
+      "Paraben-Free",
+      "Vitamin C Enriched - Zenith",
+      "50ml"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "1a1b5ecd-ad55-400a-8149-e59c59359e85",
+    "category": "beauty",
+    "productName": "Prime Hair Dryer",
+    "description": "Compact and powerful hair dryer.",
+    "specification": [
+      "3 Heat Settings",
+      "Cool Shot - Prime",
+      "Foldable Handle",
+      "1200W Power"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "5dc34451-456e-430d-a563-c0aaa4697101",
+    "category": "beauty",
+    "productName": "Elite Face Cream",
+    "description": "Hydrating and brightening face cream.",
+    "specification": [
+      "For All Skin Types",
+      "Paraben-Free",
+      "Vitamin C Enriched - Elite",
+      "50ml"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "b35da75a-54f8-4751-8e62-faeabc2b7ee2",
+    "category": "beauty",
+    "productName": "Pro Hair Dryer",
+    "description": "Compact and powerful hair dryer.",
+    "specification": [
+      "3 Heat Settings",
+      "Cool Shot - Pro",
+      "Foldable Handle - Pro",
+      "1200W Power"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "ea5a82ab-5d97-4111-bb16-476da125a610",
+    "category": "beauty",
+    "productName": "Eco Hair Dryer",
+    "description": "Compact and powerful hair dryer.",
+    "specification": [
+      "3 Heat Settings",
+      "Cool Shot - Eco",
+      "Foldable Handle",
+      "1200W Power - Eco"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "a5f87a73-40e3-4099-842b-ba94c88d4b36",
+    "category": "beauty",
+    "productName": "Prime Hair Dryer",
+    "description": "Compact and powerful hair dryer.",
+    "specification": [
+      "3 Heat Settings",
+      "Cool Shot - Prime",
+      "Foldable Handle - Prime",
+      "1200W Power"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "a1d4ac8b-df83-4744-a238-52de21029b11",
+    "category": "beauty",
+    "productName": "Zenith Hair Dryer",
+    "description": "Compact and powerful hair dryer.",
+    "specification": [
+      "3 Heat Settings",
+      "Cool Shot - Zenith",
+      "Foldable Handle",
+      "1200W Power"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "17ce6d00-f655-4986-87f0-af511b5c22dd",
+    "category": "beauty",
+    "productName": "Elite Hair Dryer",
+    "description": "Compact and powerful hair dryer.",
+    "specification": [
+      "3 Heat Settings - Elite",
+      "Cool Shot",
+      "Foldable Handle",
+      "1200W Power - Elite"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "107ef642-c87a-436a-8ebb-cd40eee880c5",
+    "category": "beauty",
+    "productName": "Zenith Hair Dryer",
+    "description": "Compact and powerful hair dryer.",
+    "specification": [
+      "3 Heat Settings",
+      "Cool Shot",
+      "Foldable Handle - Zenith",
+      "1200W Power - Zenith"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "7d5d52ba-a1ad-424e-ae82-5aee5dc908c6",
+    "category": "beauty",
+    "productName": "Max Hair Dryer",
+    "description": "Compact and powerful hair dryer.",
+    "specification": [
+      "3 Heat Settings",
+      "Cool Shot - Max",
+      "Foldable Handle",
+      "1200W Power"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "a8881411-3adb-4f01-b491-35d69c829e69",
+    "category": "beauty",
+    "productName": "Elite Face Cream",
+    "description": "Hydrating and brightening face cream.",
+    "specification": [
+      "For All Skin Types",
+      "Paraben-Free",
+      "Vitamin C Enriched",
+      "50ml"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "2db103d6-3b38-480f-8059-0010a2da4474",
+    "category": "beauty",
+    "productName": "Prime Face Cream",
+    "description": "Hydrating and brightening face cream.",
+    "specification": [
+      "For All Skin Types",
+      "Paraben-Free - Prime",
+      "Vitamin C Enriched",
+      "50ml"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "f3b77749-4f7e-4502-9fb3-31ef677a4c6e",
+    "category": "beauty",
+    "productName": "Zenith Hair Dryer",
+    "description": "Compact and powerful hair dryer.",
+    "specification": [
+      "3 Heat Settings",
+      "Cool Shot",
+      "Foldable Handle",
+      "1200W Power"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "ea164bbf-ddd5-4736-90ca-b9c05477160b",
+    "category": "beauty",
+    "productName": "Max Hair Dryer",
+    "description": "Compact and powerful hair dryer.",
+    "specification": [
+      "3 Heat Settings - Max",
+      "Cool Shot",
+      "Foldable Handle",
+      "1200W Power"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "20af3d1f-3ab6-4295-9779-9d3417931550",
+    "category": "beauty",
+    "productName": "Prime Hair Dryer",
+    "description": "Compact and powerful hair dryer.",
+    "specification": [
+      "3 Heat Settings",
+      "Cool Shot",
+      "Foldable Handle",
+      "1200W Power - Prime"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "7dc5aa03-b571-4874-8cc3-87a41d8af709",
+    "category": "beauty",
+    "productName": "Prime Face Cream",
+    "description": "Hydrating and brightening face cream.",
+    "specification": [
+      "For All Skin Types",
+      "Paraben-Free",
+      "Vitamin C Enriched",
+      "50ml"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "1f473927-9d57-4d6f-b8f0-4b00826457c5",
+    "category": "beauty",
+    "productName": "Nova Face Cream",
+    "description": "Hydrating and brightening face cream.",
+    "specification": [
+      "For All Skin Types - Nova",
+      "Paraben-Free - Nova",
+      "Vitamin C Enriched - Nova",
+      "50ml"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "25f48b4a-d173-41c2-8d99-840e6cefcefe",
+    "category": "beauty",
+    "productName": "Vivid Face Cream",
+    "description": "Hydrating and brightening face cream.",
+    "specification": [
+      "For All Skin Types",
+      "Paraben-Free - Vivid",
+      "Vitamin C Enriched",
+      "50ml"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "d8f5328f-00d5-436a-99ba-9fbbee4319a6",
+    "category": "beauty",
+    "productName": "Pro Face Cream",
+    "description": "Hydrating and brightening face cream.",
+    "specification": [
+      "For All Skin Types - Pro",
+      "Paraben-Free",
+      "Vitamin C Enriched",
+      "50ml"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "a1d8be10-dc29-4b07-bd8a-6b4a8bdccf0c",
+    "category": "beauty",
+    "productName": "Vivid Face Cream",
+    "description": "Hydrating and brightening face cream.",
+    "specification": [
+      "For All Skin Types - Vivid",
+      "Paraben-Free",
+      "Vitamin C Enriched",
+      "50ml - Vivid"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "0e754df2-0a74-4472-9dbe-21b837b2e485",
+    "category": "beauty",
+    "productName": "Pro Hair Dryer",
+    "description": "Compact and powerful hair dryer.",
+    "specification": [
+      "3 Heat Settings",
+      "Cool Shot",
+      "Foldable Handle",
+      "1200W Power"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "4a786579-b4eb-467e-b58a-0cc199ea720c",
+    "category": "beauty",
+    "productName": "Pro Face Cream",
+    "description": "Hydrating and brightening face cream.",
+    "specification": [
+      "For All Skin Types - Pro",
+      "Paraben-Free",
+      "Vitamin C Enriched",
+      "50ml"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "20ba11c6-7eab-4856-ae25-234481699718",
+    "category": "beauty",
+    "productName": "Max Hair Dryer",
+    "description": "Compact and powerful hair dryer.",
+    "specification": [
+      "3 Heat Settings",
+      "Cool Shot - Max",
+      "Foldable Handle - Max",
+      "1200W Power"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "656ef2b2-2111-4802-9058-ae0444f0773d",
+    "category": "beauty",
+    "productName": "Vivid Face Cream",
+    "description": "Hydrating and brightening face cream.",
+    "specification": [
+      "For All Skin Types",
+      "Paraben-Free",
+      "Vitamin C Enriched",
+      "50ml"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "1496d6c4-2197-4d9d-8545-17a3c5c578cc",
+    "category": "books",
+    "productName": "Smart Self-help Book",
+    "description": "Motivational book for self-growth.",
+    "specification": [
+      "Paperback",
+      "300 Pages",
+      "English",
+      "Bestseller"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "72d7b572-be47-494a-b6e8-6431e76ad750",
+    "category": "books",
+    "productName": "Prime Cookbook",
+    "description": "Delicious recipes from around the world.",
+    "specification": [
+      "Hardcover",
+      "100+ Recipes - Prime",
+      "Full Color Photos",
+      "Author Signed"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "959f518d-848a-4518-8371-ba53afa0766d",
+    "category": "books",
+    "productName": "Pro Cookbook",
+    "description": "Delicious recipes from around the world.",
+    "specification": [
+      "Hardcover",
+      "100+ Recipes",
+      "Full Color Photos",
+      "Author Signed"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "ad16a851-ab65-422a-9b46-df065b06c6c1",
+    "category": "books",
+    "productName": "Prime Cookbook",
+    "description": "Delicious recipes from around the world.",
+    "specification": [
+      "Hardcover - Prime",
+      "100+ Recipes",
+      "Full Color Photos",
+      "Author Signed - Prime"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "11ae1bf1-dfd1-4445-9193-67e1a4074de8",
+    "category": "books",
+    "productName": "Prime Self-help Book",
+    "description": "Motivational book for self-growth.",
+    "specification": [
+      "Paperback",
+      "300 Pages",
+      "English - Prime",
+      "Bestseller"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "8c6ba0b7-f1e4-4288-a5cc-bfb2f3416c4a",
+    "category": "books",
+    "productName": "Nova Cookbook",
+    "description": "Delicious recipes from around the world.",
+    "specification": [
+      "Hardcover",
+      "100+ Recipes - Nova",
+      "Full Color Photos - Nova",
+      "Author Signed"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "c300dad5-90cd-442d-a9ba-6a623bf490ca",
+    "category": "books",
+    "productName": "Prime Self-help Book",
+    "description": "Motivational book for self-growth.",
+    "specification": [
+      "Paperback",
+      "300 Pages",
+      "English - Prime",
+      "Bestseller"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "8b87f58a-0975-4875-806d-c674a8de67a1",
+    "category": "books",
+    "productName": "Max Self-help Book",
+    "description": "Motivational book for self-growth.",
+    "specification": [
+      "Paperback",
+      "300 Pages - Max",
+      "English",
+      "Bestseller - Max"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "16cafa05-a170-4de4-9adc-5ba565e7fcdc",
+    "category": "books",
+    "productName": "Nova Self-help Book",
+    "description": "Motivational book for self-growth.",
+    "specification": [
+      "Paperback - Nova",
+      "300 Pages",
+      "English",
+      "Bestseller"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "7727dd21-4def-479d-80f5-9d17f06df0b4",
+    "category": "books",
+    "productName": "Vivid Self-help Book",
+    "description": "Motivational book for self-growth.",
+    "specification": [
+      "Paperback",
+      "300 Pages",
+      "English",
+      "Bestseller - Vivid"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "689e8251-b31d-4c68-ad74-729edd9c3969",
+    "category": "books",
+    "productName": "Vivid Cookbook",
+    "description": "Delicious recipes from around the world.",
+    "specification": [
+      "Hardcover",
+      "100+ Recipes",
+      "Full Color Photos",
+      "Author Signed"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "e29b316e-06b7-46ef-80b6-8b45be1453f8",
+    "category": "books",
+    "productName": "Max Cookbook",
+    "description": "Delicious recipes from around the world.",
+    "specification": [
+      "Hardcover",
+      "100+ Recipes",
+      "Full Color Photos",
+      "Author Signed"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "0fead83e-653a-4bb6-8cfd-d96881c662c0",
+    "category": "books",
+    "productName": "Zenith Cookbook",
+    "description": "Delicious recipes from around the world.",
+    "specification": [
+      "Hardcover",
+      "100+ Recipes",
+      "Full Color Photos",
+      "Author Signed - Zenith"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "0bd56a01-0c05-4508-a277-6a90a4a2d5a9",
+    "category": "books",
+    "productName": "Smart Cookbook",
+    "description": "Delicious recipes from around the world.",
+    "specification": [
+      "Hardcover",
+      "100+ Recipes",
+      "Full Color Photos",
+      "Author Signed"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "415b6d34-c55f-4c81-9f84-f57838731d54",
+    "category": "books",
+    "productName": "Vivid Cookbook",
+    "description": "Delicious recipes from around the world.",
+    "specification": [
+      "Hardcover",
+      "100+ Recipes",
+      "Full Color Photos",
+      "Author Signed"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "a737e246-2437-4490-8d97-39d69e4233d4",
+    "category": "books",
+    "productName": "Nova Self-help Book",
+    "description": "Motivational book for self-growth.",
+    "specification": [
+      "Paperback",
+      "300 Pages",
+      "English",
+      "Bestseller - Nova"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "9932492d-1a11-45f4-9ecc-ee212e2d439e",
+    "category": "books",
+    "productName": "Ultra Cookbook",
+    "description": "Delicious recipes from around the world.",
+    "specification": [
+      "Hardcover - Ultra",
+      "100+ Recipes",
+      "Full Color Photos",
+      "Author Signed"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "4a3d1934-0b2e-4c37-8230-a33679be0d10",
+    "category": "books",
+    "productName": "Ultra Cookbook",
+    "description": "Delicious recipes from around the world.",
+    "specification": [
+      "Hardcover",
+      "100+ Recipes - Ultra",
+      "Full Color Photos - Ultra",
+      "Author Signed"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "b35a1473-e58e-4f06-a086-b2ee48703425",
+    "category": "books",
+    "productName": "Max Self-help Book",
+    "description": "Motivational book for self-growth.",
+    "specification": [
+      "Paperback",
+      "300 Pages - Max",
+      "English - Max",
+      "Bestseller"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "62efec2f-517e-4aa3-ab28-f72870380fc7",
+    "category": "books",
+    "productName": "Ultra Cookbook",
+    "description": "Delicious recipes from around the world.",
+    "specification": [
+      "Hardcover",
+      "100+ Recipes - Ultra",
+      "Full Color Photos - Ultra",
+      "Author Signed"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "0c7961b9-a819-46d8-b083-7fd68f117ecf",
+    "category": "books",
+    "productName": "Max Cookbook",
+    "description": "Delicious recipes from around the world.",
+    "specification": [
+      "Hardcover - Max",
+      "100+ Recipes",
+      "Full Color Photos",
+      "Author Signed"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "d0272a45-3cd3-4e60-aaab-1728098c611b",
+    "category": "books",
+    "productName": "Smart Cookbook",
+    "description": "Delicious recipes from around the world.",
+    "specification": [
+      "Hardcover - Smart",
+      "100+ Recipes",
+      "Full Color Photos - Smart",
+      "Author Signed"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "1490c097-f86e-4759-b312-4892be319a1a",
+    "category": "books",
+    "productName": "Vivid Cookbook",
+    "description": "Delicious recipes from around the world.",
+    "specification": [
+      "Hardcover",
+      "100+ Recipes - Vivid",
+      "Full Color Photos",
+      "Author Signed"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "1065b55b-5110-4128-b8fe-2a6c3326f7c3",
+    "category": "books",
+    "productName": "Max Cookbook",
+    "description": "Delicious recipes from around the world.",
+    "specification": [
+      "Hardcover",
+      "100+ Recipes",
+      "Full Color Photos",
+      "Author Signed"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "4cfa0098-7097-466b-bdbb-83424985e76f",
+    "category": "books",
+    "productName": "Vivid Cookbook",
+    "description": "Delicious recipes from around the world.",
+    "specification": [
+      "Hardcover",
+      "100+ Recipes",
+      "Full Color Photos",
+      "Author Signed"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "a67f6ff7-bb7c-4bcc-910c-06a34133918b",
+    "category": "books",
+    "productName": "Prime Cookbook",
+    "description": "Delicious recipes from around the world.",
+    "specification": [
+      "Hardcover",
+      "100+ Recipes - Prime",
+      "Full Color Photos",
+      "Author Signed - Prime"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "8e7c8045-fbff-4e4a-bf4a-86b169045672",
+    "category": "books",
+    "productName": "Zenith Self-help Book",
+    "description": "Motivational book for self-growth.",
+    "specification": [
+      "Paperback",
+      "300 Pages",
+      "English",
+      "Bestseller - Zenith"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "1eda7dce-fa7a-431e-b6be-f4afd572ab6a",
+    "category": "books",
+    "productName": "Elite Cookbook",
+    "description": "Delicious recipes from around the world.",
+    "specification": [
+      "Hardcover",
+      "100+ Recipes",
+      "Full Color Photos",
+      "Author Signed"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "a754b6d8-4905-4895-9874-b3549450edf8",
+    "category": "books",
+    "productName": "Elite Self-help Book",
+    "description": "Motivational book for self-growth.",
+    "specification": [
+      "Paperback - Elite",
+      "300 Pages",
+      "English",
+      "Bestseller - Elite"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "f7e45094-e03a-4dab-a1db-790ebca87e60",
+    "category": "books",
+    "productName": "Elite Cookbook",
+    "description": "Delicious recipes from around the world.",
+    "specification": [
+      "Hardcover",
+      "100+ Recipes",
+      "Full Color Photos",
+      "Author Signed"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "b4d872ab-4348-47f4-8a48-b20a1e185810",
+    "category": "books",
+    "productName": "Eco Self-help Book",
+    "description": "Motivational book for self-growth.",
+    "specification": [
+      "Paperback",
+      "300 Pages",
+      "English - Eco",
+      "Bestseller"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "00209a3d-daec-4437-a428-e61e444c8039",
+    "category": "books",
+    "productName": "Vivid Cookbook",
+    "description": "Delicious recipes from around the world.",
+    "specification": [
+      "Hardcover",
+      "100+ Recipes - Vivid",
+      "Full Color Photos",
+      "Author Signed"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "87efce31-24eb-4a70-85d1-a3418ac2e4c4",
+    "category": "books",
+    "productName": "Elite Self-help Book",
+    "description": "Motivational book for self-growth.",
+    "specification": [
+      "Paperback",
+      "300 Pages - Elite",
+      "English",
+      "Bestseller"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "ed8f6633-bfdb-4b2a-87a6-53b64eede76c",
+    "category": "books",
+    "productName": "Max Self-help Book",
+    "description": "Motivational book for self-growth.",
+    "specification": [
+      "Paperback",
+      "300 Pages - Max",
+      "English - Max",
+      "Bestseller"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "42ee1f7e-9c9a-40bc-995a-bab14e4e5b65",
+    "category": "books",
+    "productName": "Zenith Cookbook",
+    "description": "Delicious recipes from around the world.",
+    "specification": [
+      "Hardcover - Zenith",
+      "100+ Recipes",
+      "Full Color Photos",
+      "Author Signed"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "8ad79b02-a454-4d3f-bf5b-e8c58cd03923",
+    "category": "home_decor",
+    "productName": "Pro Wall Clock",
+    "description": "Elegant wall clock for living room.",
+    "specification": [
+      "Silent Movement",
+      "Modern Design",
+      "Battery Operated",
+      "12-inch Diameter"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "a5227578-4a34-4022-bdf6-3dd500d5a03c",
+    "category": "home_decor",
+    "productName": "Nova Wall Clock",
+    "description": "Elegant wall clock for living room.",
+    "specification": [
+      "Silent Movement",
+      "Modern Design - Nova",
+      "Battery Operated - Nova",
+      "12-inch Diameter"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "9646d0a4-26f5-4dec-9b19-26abd8aac7f4",
+    "category": "home_decor",
+    "productName": "Elite Candle Set",
+    "description": "Aromatic candles for home ambiance.",
+    "specification": [
+      "Set of 4",
+      "Lavender, Vanilla Scents - Elite",
+      "Glass Jars",
+      "40 Hours Burn Time"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "698e5289-65ce-465f-81ca-9bb0f55bd331",
+    "category": "home_decor",
+    "productName": "Vivid Wall Clock",
+    "description": "Elegant wall clock for living room.",
+    "specification": [
+      "Silent Movement",
+      "Modern Design",
+      "Battery Operated",
+      "12-inch Diameter - Vivid"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "d5d230a1-a219-42a0-85ca-fcc52b2ced6c",
+    "category": "home_decor",
+    "productName": "Zenith Wall Clock",
+    "description": "Elegant wall clock for living room.",
+    "specification": [
+      "Silent Movement",
+      "Modern Design - Zenith",
+      "Battery Operated",
+      "12-inch Diameter"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "fd70c5f4-6025-4c7f-916e-e3a2fb595099",
+    "category": "home_decor",
+    "productName": "Elite Candle Set",
+    "description": "Aromatic candles for home ambiance.",
+    "specification": [
+      "Set of 4 - Elite",
+      "Lavender, Vanilla Scents - Elite",
+      "Glass Jars",
+      "40 Hours Burn Time"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "24821c66-60d3-4dc5-84e6-974c637df9e3",
+    "category": "home_decor",
+    "productName": "Prime Candle Set",
+    "description": "Aromatic candles for home ambiance.",
+    "specification": [
+      "Set of 4 - Prime",
+      "Lavender, Vanilla Scents - Prime",
+      "Glass Jars - Prime",
+      "40 Hours Burn Time"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "4682fd13-a578-4b4f-99d9-f3c6aafc50e9",
+    "category": "home_decor",
+    "productName": "Max Wall Clock",
+    "description": "Elegant wall clock for living room.",
+    "specification": [
+      "Silent Movement",
+      "Modern Design",
+      "Battery Operated",
+      "12-inch Diameter - Max"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "291bba92-0cd4-4abc-a651-769ae6c5e827",
+    "category": "home_decor",
+    "productName": "Prime Candle Set",
+    "description": "Aromatic candles for home ambiance.",
+    "specification": [
+      "Set of 4",
+      "Lavender, Vanilla Scents - Prime",
+      "Glass Jars - Prime",
+      "40 Hours Burn Time"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "13c36585-5f74-4523-877a-6c6136575c9d",
+    "category": "home_decor",
+    "productName": "Nova Candle Set",
+    "description": "Aromatic candles for home ambiance.",
+    "specification": [
+      "Set of 4",
+      "Lavender, Vanilla Scents - Nova",
+      "Glass Jars",
+      "40 Hours Burn Time - Nova"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "f6260d41-ba8c-483a-b425-8d5d28c51647",
+    "category": "home_decor",
+    "productName": "Vivid Wall Clock",
+    "description": "Elegant wall clock for living room.",
+    "specification": [
+      "Silent Movement - Vivid",
+      "Modern Design - Vivid",
+      "Battery Operated",
+      "12-inch Diameter"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "26cd4457-e43b-4c27-9889-fd0de2b9b195",
+    "category": "home_decor",
+    "productName": "Eco Wall Clock",
+    "description": "Elegant wall clock for living room.",
+    "specification": [
+      "Silent Movement",
+      "Modern Design",
+      "Battery Operated",
+      "12-inch Diameter"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "c7267877-a445-4881-9591-526bcb6e7fb3",
+    "category": "home_decor",
+    "productName": "Ultra Candle Set",
+    "description": "Aromatic candles for home ambiance.",
+    "specification": [
+      "Set of 4 - Ultra",
+      "Lavender, Vanilla Scents",
+      "Glass Jars",
+      "40 Hours Burn Time"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "c39e6260-35bf-4382-8deb-e5d249031934",
+    "category": "home_decor",
+    "productName": "Max Wall Clock",
+    "description": "Elegant wall clock for living room.",
+    "specification": [
+      "Silent Movement - Max",
+      "Modern Design - Max",
+      "Battery Operated",
+      "12-inch Diameter"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "cbc9ae7c-cead-4a0d-a856-720002d747f4",
+    "category": "home_decor",
+    "productName": "Zenith Candle Set",
+    "description": "Aromatic candles for home ambiance.",
+    "specification": [
+      "Set of 4",
+      "Lavender, Vanilla Scents - Zenith",
+      "Glass Jars",
+      "40 Hours Burn Time"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "dbab0da4-6c1e-4aa3-953f-ab35a3d038a5",
+    "category": "home_decor",
+    "productName": "Nova Wall Clock",
+    "description": "Elegant wall clock for living room.",
+    "specification": [
+      "Silent Movement - Nova",
+      "Modern Design",
+      "Battery Operated",
+      "12-inch Diameter"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "e3c16054-2286-4593-889b-040d0b8383d8",
+    "category": "home_decor",
+    "productName": "Elite Candle Set",
+    "description": "Aromatic candles for home ambiance.",
+    "specification": [
+      "Set of 4",
+      "Lavender, Vanilla Scents - Elite",
+      "Glass Jars",
+      "40 Hours Burn Time - Elite"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "51c8c4e7-01e8-4915-8f3d-42c7b1789572",
+    "category": "home_decor",
+    "productName": "Pro Wall Clock",
+    "description": "Elegant wall clock for living room.",
+    "specification": [
+      "Silent Movement",
+      "Modern Design - Pro",
+      "Battery Operated",
+      "12-inch Diameter"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "992935ad-8be2-4d80-b4de-1c57ea1427b2",
+    "category": "home_decor",
+    "productName": "Ultra Wall Clock",
+    "description": "Elegant wall clock for living room.",
+    "specification": [
+      "Silent Movement",
+      "Modern Design - Ultra",
+      "Battery Operated",
+      "12-inch Diameter"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "226201ae-cea0-4044-8152-1e980a5bdb1f",
+    "category": "home_decor",
+    "productName": "Smart Candle Set",
+    "description": "Aromatic candles for home ambiance.",
+    "specification": [
+      "Set of 4",
+      "Lavender, Vanilla Scents",
+      "Glass Jars",
+      "40 Hours Burn Time"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "0f6c657a-3763-4bc7-8c4f-8dec31130445",
+    "category": "home_decor",
+    "productName": "Elite Candle Set",
+    "description": "Aromatic candles for home ambiance.",
+    "specification": [
+      "Set of 4 - Elite",
+      "Lavender, Vanilla Scents",
+      "Glass Jars",
+      "40 Hours Burn Time"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "18f298e8-bec0-4723-8a19-ac6dabb38784",
+    "category": "home_decor",
+    "productName": "Smart Candle Set",
+    "description": "Aromatic candles for home ambiance.",
+    "specification": [
+      "Set of 4",
+      "Lavender, Vanilla Scents",
+      "Glass Jars",
+      "40 Hours Burn Time - Smart"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "8e527bc6-7fb9-4a07-9853-b49f3830d0cc",
+    "category": "home_decor",
+    "productName": "Zenith Wall Clock",
+    "description": "Elegant wall clock for living room.",
+    "specification": [
+      "Silent Movement",
+      "Modern Design",
+      "Battery Operated",
+      "12-inch Diameter"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "f7f3024e-02fa-4c12-961c-ab9155cd9809",
+    "category": "home_decor",
+    "productName": "Nova Wall Clock",
+    "description": "Elegant wall clock for living room.",
+    "specification": [
+      "Silent Movement",
+      "Modern Design",
+      "Battery Operated",
+      "12-inch Diameter"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "a043cf89-f232-45c8-bcf1-c0e6ffb236e6",
+    "category": "home_decor",
+    "productName": "Pro Wall Clock",
+    "description": "Elegant wall clock for living room.",
+    "specification": [
+      "Silent Movement",
+      "Modern Design",
+      "Battery Operated",
+      "12-inch Diameter - Pro"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "c377a7ad-c690-4d28-a131-d4d9fbcd8742",
+    "category": "home_decor",
+    "productName": "Smart Wall Clock",
+    "description": "Elegant wall clock for living room.",
+    "specification": [
+      "Silent Movement",
+      "Modern Design",
+      "Battery Operated",
+      "12-inch Diameter - Smart"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "8449fba8-def6-4fd9-8883-91ab0e00c162",
+    "category": "home_decor",
+    "productName": "Eco Candle Set",
+    "description": "Aromatic candles for home ambiance.",
+    "specification": [
+      "Set of 4",
+      "Lavender, Vanilla Scents",
+      "Glass Jars",
+      "40 Hours Burn Time"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "89f7fcb5-bb59-4699-9b50-38827e8e09c6",
+    "category": "home_decor",
+    "productName": "Max Candle Set",
+    "description": "Aromatic candles for home ambiance.",
+    "specification": [
+      "Set of 4",
+      "Lavender, Vanilla Scents - Max",
+      "Glass Jars",
+      "40 Hours Burn Time"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "efb1ff43-fc7b-44b9-95d8-efeee8c42579",
+    "category": "home_decor",
+    "productName": "Eco Candle Set",
+    "description": "Aromatic candles for home ambiance.",
+    "specification": [
+      "Set of 4 - Eco",
+      "Lavender, Vanilla Scents - Eco",
+      "Glass Jars",
+      "40 Hours Burn Time"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "a44f4a00-f5da-47e4-837a-f9fbf1a5553c",
+    "category": "home_decor",
+    "productName": "Vivid Candle Set",
+    "description": "Aromatic candles for home ambiance.",
+    "specification": [
+      "Set of 4",
+      "Lavender, Vanilla Scents - Vivid",
+      "Glass Jars",
+      "40 Hours Burn Time"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "bbff0724-22b0-4d6e-b4d7-0e567b0d3d0d",
+    "category": "home_decor",
+    "productName": "Vivid Wall Clock",
+    "description": "Elegant wall clock for living room.",
+    "specification": [
+      "Silent Movement",
+      "Modern Design",
+      "Battery Operated",
+      "12-inch Diameter"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "9336bd7e-276e-483a-9138-318795730f5d",
+    "category": "home_decor",
+    "productName": "Prime Candle Set",
+    "description": "Aromatic candles for home ambiance.",
+    "specification": [
+      "Set of 4",
+      "Lavender, Vanilla Scents",
+      "Glass Jars",
+      "40 Hours Burn Time"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "a9d9a535-412a-4e98-b642-e5b81404314c",
+    "category": "home_decor",
+    "productName": "Nova Wall Clock",
+    "description": "Elegant wall clock for living room.",
+    "specification": [
+      "Silent Movement",
+      "Modern Design - Nova",
+      "Battery Operated",
+      "12-inch Diameter"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "fed5c4e5-a6d0-4803-bf21-f049ee4d19d7",
+    "category": "home_decor",
+    "productName": "Eco Candle Set",
+    "description": "Aromatic candles for home ambiance.",
+    "specification": [
+      "Set of 4",
+      "Lavender, Vanilla Scents",
+      "Glass Jars",
+      "40 Hours Burn Time - Eco"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "8885ddeb-f677-433d-942d-eddaf8fd037e",
+    "category": "home_decor",
+    "productName": "Elite Wall Clock",
+    "description": "Elegant wall clock for living room.",
+    "specification": [
+      "Silent Movement",
+      "Modern Design",
+      "Battery Operated",
+      "12-inch Diameter - Elite"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "e168963b-f2cb-4cad-85f2-b3208244943b",
+    "category": "automotive",
+    "productName": "Eco Phone Holder",
+    "description": "Universal car mount for phones.",
+    "specification": [
+      "360 Rotation",
+      "Dashboard/Windshield Mount - Eco",
+      "One-touch Lock",
+      "Adjustable Width"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "35bd7ca1-3105-4d49-b34f-425d6f80c6d8",
+    "category": "automotive",
+    "productName": "Prime Phone Holder",
+    "description": "Universal car mount for phones.",
+    "specification": [
+      "360 Rotation",
+      "Dashboard/Windshield Mount",
+      "One-touch Lock",
+      "Adjustable Width"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "b27a4b4b-ec11-4b6e-96b1-8879273011c0",
+    "category": "automotive",
+    "productName": "Ultra Car Vacuum Cleaner",
+    "description": "Handheld vacuum for cars.",
+    "specification": [
+      "12V Power",
+      "Washable Filter - Ultra",
+      "Crevice Tool Included",
+      "Lightweight"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "2da24a7a-e52b-41e9-8ae4-9e88df1a6fe4",
+    "category": "automotive",
+    "productName": "Nova Phone Holder",
+    "description": "Universal car mount for phones.",
+    "specification": [
+      "360 Rotation",
+      "Dashboard/Windshield Mount",
+      "One-touch Lock - Nova",
+      "Adjustable Width - Nova"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "e14b38de-da86-49ea-9215-8b87a6e68c4c",
+    "category": "automotive",
+    "productName": "Nova Phone Holder",
+    "description": "Universal car mount for phones.",
+    "specification": [
+      "360 Rotation",
+      "Dashboard/Windshield Mount",
+      "One-touch Lock",
+      "Adjustable Width"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "4bd90a76-1fe8-4ddb-b406-970bde7d34b8",
+    "category": "automotive",
+    "productName": "Max Car Vacuum Cleaner",
+    "description": "Handheld vacuum for cars.",
+    "specification": [
+      "12V Power - Max",
+      "Washable Filter",
+      "Crevice Tool Included - Max",
+      "Lightweight"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "7e249d0e-b070-4e8c-bb03-112d13272f69",
+    "category": "automotive",
+    "productName": "Max Phone Holder",
+    "description": "Universal car mount for phones.",
+    "specification": [
+      "360 Rotation",
+      "Dashboard/Windshield Mount",
+      "One-touch Lock - Max",
+      "Adjustable Width"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "e4f2e80c-8a09-4686-895a-4bd7d9423fc9",
+    "category": "automotive",
+    "productName": "Eco Car Vacuum Cleaner",
+    "description": "Handheld vacuum for cars.",
+    "specification": [
+      "12V Power - Eco",
+      "Washable Filter - Eco",
+      "Crevice Tool Included",
+      "Lightweight"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "397892e8-5d4b-48f8-8a35-af94ced95a94",
+    "category": "automotive",
+    "productName": "Elite Car Vacuum Cleaner",
+    "description": "Handheld vacuum for cars.",
+    "specification": [
+      "12V Power",
+      "Washable Filter - Elite",
+      "Crevice Tool Included",
+      "Lightweight - Elite"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "6ea8bb9a-db8d-43ae-838e-ecff666973a1",
+    "category": "automotive",
+    "productName": "Max Phone Holder",
+    "description": "Universal car mount for phones.",
+    "specification": [
+      "360 Rotation - Max",
+      "Dashboard/Windshield Mount",
+      "One-touch Lock - Max",
+      "Adjustable Width - Max"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "4a16c7be-b858-4afc-9d06-afe9a0be6795",
+    "category": "automotive",
+    "productName": "Max Car Vacuum Cleaner",
+    "description": "Handheld vacuum for cars.",
+    "specification": [
+      "12V Power",
+      "Washable Filter",
+      "Crevice Tool Included - Max",
+      "Lightweight"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "aa6fd5ad-701f-463b-92ae-830b02cf23c5",
+    "category": "automotive",
+    "productName": "Max Car Vacuum Cleaner",
+    "description": "Handheld vacuum for cars.",
+    "specification": [
+      "12V Power",
+      "Washable Filter",
+      "Crevice Tool Included",
+      "Lightweight"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "e450490c-cb40-489a-a8a3-f03bc8e1cc22",
+    "category": "automotive",
+    "productName": "Pro Car Vacuum Cleaner",
+    "description": "Handheld vacuum for cars.",
+    "specification": [
+      "12V Power",
+      "Washable Filter - Pro",
+      "Crevice Tool Included",
+      "Lightweight"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "13ec6e43-d0d9-476a-8e92-7582cf46722f",
+    "category": "automotive",
+    "productName": "Smart Car Vacuum Cleaner",
+    "description": "Handheld vacuum for cars.",
+    "specification": [
+      "12V Power - Smart",
+      "Washable Filter",
+      "Crevice Tool Included",
+      "Lightweight - Smart"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "c4aadf39-52f4-495d-9b15-f352e3adf79c",
+    "category": "automotive",
+    "productName": "Zenith Car Vacuum Cleaner",
+    "description": "Handheld vacuum for cars.",
+    "specification": [
+      "12V Power",
+      "Washable Filter",
+      "Crevice Tool Included",
+      "Lightweight"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "20a85aa0-845d-4087-9358-2a68df2be93d",
+    "category": "automotive",
+    "productName": "Ultra Phone Holder",
+    "description": "Universal car mount for phones.",
+    "specification": [
+      "360 Rotation",
+      "Dashboard/Windshield Mount",
+      "One-touch Lock",
+      "Adjustable Width - Ultra"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "46b7217b-5105-4d4b-b435-537dbb257caa",
+    "category": "automotive",
+    "productName": "Vivid Phone Holder",
+    "description": "Universal car mount for phones.",
+    "specification": [
+      "360 Rotation",
+      "Dashboard/Windshield Mount",
+      "One-touch Lock",
+      "Adjustable Width"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "f3735c00-5859-4b0b-b9de-47fd6110cb88",
+    "category": "automotive",
+    "productName": "Smart Car Vacuum Cleaner",
+    "description": "Handheld vacuum for cars.",
+    "specification": [
+      "12V Power - Smart",
+      "Washable Filter",
+      "Crevice Tool Included",
+      "Lightweight"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "8f48be3b-87e0-42dd-8b85-ae27ed6ebedb",
+    "category": "automotive",
+    "productName": "Eco Car Vacuum Cleaner",
+    "description": "Handheld vacuum for cars.",
+    "specification": [
+      "12V Power",
+      "Washable Filter",
+      "Crevice Tool Included",
+      "Lightweight - Eco"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "2b58ee18-6125-43f9-90fb-056222fb90c4",
+    "category": "automotive",
+    "productName": "Zenith Car Vacuum Cleaner",
+    "description": "Handheld vacuum for cars.",
+    "specification": [
+      "12V Power",
+      "Washable Filter",
+      "Crevice Tool Included",
+      "Lightweight"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "be1e5251-b88f-4c38-9580-3b05bd6a65cf",
+    "category": "automotive",
+    "productName": "Max Phone Holder",
+    "description": "Universal car mount for phones.",
+    "specification": [
+      "360 Rotation",
+      "Dashboard/Windshield Mount - Max",
+      "One-touch Lock - Max",
+      "Adjustable Width"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "02009831-b09f-4df1-adbc-9285663a9632",
+    "category": "automotive",
+    "productName": "Eco Phone Holder",
+    "description": "Universal car mount for phones.",
+    "specification": [
+      "360 Rotation",
+      "Dashboard/Windshield Mount",
+      "One-touch Lock",
+      "Adjustable Width"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "59a15ebf-bc80-4b4b-8389-aab35176d03c",
+    "category": "automotive",
+    "productName": "Vivid Phone Holder",
+    "description": "Universal car mount for phones.",
+    "specification": [
+      "360 Rotation",
+      "Dashboard/Windshield Mount",
+      "One-touch Lock - Vivid",
+      "Adjustable Width"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "a30c141c-6e0d-481c-a435-92d72b4be11a",
+    "category": "automotive",
+    "productName": "Pro Car Vacuum Cleaner",
+    "description": "Handheld vacuum for cars.",
+    "specification": [
+      "12V Power",
+      "Washable Filter",
+      "Crevice Tool Included - Pro",
+      "Lightweight"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "9857e008-d3c0-4469-a488-888dd2d24cd5",
+    "category": "automotive",
+    "productName": "Zenith Car Vacuum Cleaner",
+    "description": "Handheld vacuum for cars.",
+    "specification": [
+      "12V Power - Zenith",
+      "Washable Filter",
+      "Crevice Tool Included",
+      "Lightweight"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "097501eb-7361-4f3f-9a98-4e7910001b3a",
+    "category": "automotive",
+    "productName": "Eco Phone Holder",
+    "description": "Universal car mount for phones.",
+    "specification": [
+      "360 Rotation - Eco",
+      "Dashboard/Windshield Mount - Eco",
+      "One-touch Lock",
+      "Adjustable Width - Eco"
+    ],
+    "image": "https://www.lorempixel.com/400/400"
+  },
+  {
+    "_id": "b3e94ac1-6611-4d9c-9bc2-e2b6b1567bdd",
+    "category": "automotive",
+    "productName": "Eco Phone Holder",
+    "description": "Universal car mount for phones.",
+    "specification": [
+      "360 Rotation",
+      "Dashboard/Windshield Mount",
+      "One-touch Lock",
+      "Adjustable Width"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "8a356043-8cb6-45ac-ae67-653bec9c2c51",
+    "category": "automotive",
+    "productName": "Max Car Vacuum Cleaner",
+    "description": "Handheld vacuum for cars.",
+    "specification": [
+      "12V Power",
+      "Washable Filter",
+      "Crevice Tool Included",
+      "Lightweight - Max"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "37b3a712-7abe-4d36-822f-4483a952a3b4",
+    "category": "automotive",
+    "productName": "Prime Car Vacuum Cleaner",
+    "description": "Handheld vacuum for cars.",
+    "specification": [
+      "12V Power",
+      "Washable Filter - Prime",
+      "Crevice Tool Included - Prime",
+      "Lightweight"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "1abe9b7b-30f3-4e27-8275-4e277b56d3a7",
+    "category": "automotive",
+    "productName": "Ultra Phone Holder",
+    "description": "Universal car mount for phones.",
+    "specification": [
+      "360 Rotation - Ultra",
+      "Dashboard/Windshield Mount - Ultra",
+      "One-touch Lock",
+      "Adjustable Width"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "0b6f9f9e-b76e-4b41-85cf-cbb6be7aceea",
+    "category": "automotive",
+    "productName": "Elite Car Vacuum Cleaner",
+    "description": "Handheld vacuum for cars.",
+    "specification": [
+      "12V Power",
+      "Washable Filter - Elite",
+      "Crevice Tool Included",
+      "Lightweight"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "1c8ee9db-e034-46b8-9bdc-d3c91d6a47b4",
+    "category": "automotive",
+    "productName": "Max Phone Holder",
+    "description": "Universal car mount for phones.",
+    "specification": [
+      "360 Rotation",
+      "Dashboard/Windshield Mount - Max",
+      "One-touch Lock - Max",
+      "Adjustable Width"
+    ],
+    "image": "https://placekitten.com/400/400"
+  },
+  {
+    "_id": "394ab4aa-3811-4650-bf35-e4a4795de365",
+    "category": "automotive",
+    "productName": "Eco Car Vacuum Cleaner",
+    "description": "Handheld vacuum for cars.",
+    "specification": [
+      "12V Power",
+      "Washable Filter - Eco",
+      "Crevice Tool Included",
+      "Lightweight - Eco"
+    ],
+    "image": "https://dummyimage.com/400x400"
+  },
+  {
+    "_id": "8b4b8d89-a4ab-4d00-8544-68773fb43e42",
+    "category": "automotive",
+    "productName": "Smart Car Vacuum Cleaner",
+    "description": "Handheld vacuum for cars.",
+    "specification": [
+      "12V Power - Smart",
+      "Washable Filter - Smart",
+      "Crevice Tool Included - Smart",
+      "Lightweight"
+    ],
+    "image": "https://placeimg.com/400/400/any"
+  },
+  {
+    "_id": "416ac867-5710-4b41-927f-0c1b613b0937",
+    "category": "automotive",
+    "productName": "Vivid Car Vacuum Cleaner",
+    "description": "Handheld vacuum for cars.",
+    "specification": [
+      "12V Power",
+      "Washable Filter - Vivid",
+      "Crevice Tool Included",
+      "Lightweight - Vivid"
+    ],
+    "image": "https://placekitten.com/400/400"
+  }
+]

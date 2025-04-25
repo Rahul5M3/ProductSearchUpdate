@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+tensorflow==4.40.0
+# tensorflow-text==2.15.0
+tensorflow_hub
+faiss-cpu
+rank_bm25
+nltk
+symspellpy
+transformers
+tiktoken
+blobfile
+# torch
+sentence_transformers

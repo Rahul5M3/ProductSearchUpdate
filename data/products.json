@@ -1,0 +1,2402 @@
+[
+  {
+    "_id": "6ec69b14-e890-4bc6-8527-7ae82d3199c8",
+    "category": "camera",
+    "productName": "VividPix Camera",
+    "description": "High-performance camera with exceptional clarity and advanced imaging features.",
+    "specification": [
+      "4K Video Recording",
+      "Interchangeable Lens",
+      "24MP Sensor",
+      "Touchscreen LCD"
+    ]
+  },
+  {
+    "_id": "482d7861-c2b5-4ef1-b5e3-c10bdac8cf33",
+    "category": "camera",
+    "productName": "SnapMaster",
+    "description": "High-performance camera with exceptional clarity and advanced imaging features.",
+    "specification": [
+      "4K Video Recording",
+      "24MP Sensor",
+      "Wi-Fi & Bluetooth",
+      "Touchscreen LCD"
+    ]
+  },
+  {
+    "_id": "7fc5e910-24b0-4ff6-9159-2e11c0211716",
+    "category": "smartphone",
+    "productName": "OneEdge",
+    "description": "Feature-rich smartphone with excellent camera and fast charging.",
+    "specification": [
+      "Fast Charging",
+      "6.5-inch AMOLED",
+      "128GB Storage",
+      "5G Connectivity"
+    ]
+  },
+  {
+    "_id": "f86e2ddb-4cb9-41eb-89d0-bca1119a8f9f",
+    "category": "camera",
+    "productName": "UltraZoom Cam",
+    "description": "DSLR camera with professional-grade image quality and video recording.",
+    "specification": [
+      "Wi-Fi & Bluetooth",
+      "24MP Sensor",
+      "4K Video Recording",
+      "Interchangeable Lens"
+    ]
+  },
+  {
+    "_id": "eb5d39c2-3646-4521-85bb-af4d4c257a45",
+    "category": "watch",
+    "productName": "TimeTrack Elite",
+    "description": "Elegant smartwatch with fitness tracking and notifications.",
+    "specification": [
+      "Sleep Tracking",
+      "Custom Watch Faces",
+      "Water Resistant",
+      "GPS"
+    ]
+  },
+  {
+    "_id": "517ccad8-1956-401d-a55b-ba7fc5794798",
+    "category": "watch",
+    "productName": "SmartWatch Z",
+    "description": "Stylish and durable watch with multiple sports modes.",
+    "specification": [
+      "Custom Watch Faces",
+      "Sleep Tracking",
+      "GPS",
+      "Heart Rate Monitor"
+    ]
+  },
+  {
+    "_id": "4342192c-7a38-4597-af3b-7911bb6994c8",
+    "category": "laptop",
+    "productName": "TechBook X1",
+    "description": "Slim and powerful laptop with long battery life.",
+    "specification": [
+      "14-inch Display",
+      "Backlit Keyboard",
+      "16GB RAM",
+      "512GB SSD"
+    ]
+  },
+  {
+    "_id": "ab9888e4-205a-45bc-984d-742fb263d2f6",
+    "category": "smartphone",
+    "productName": "SmartOne X",
+    "description": "Feature-rich smartphone with excellent camera and fast charging.",
+    "specification": [
+      "Fast Charging",
+      "Triple Camera",
+      "6.5-inch AMOLED",
+      "128GB Storage"
+    ]
+  },
+  {
+    "_id": "41d754cc-91a1-4e08-b98a-90eff8301908",
+    "category": "smartphone",
+    "productName": "Galaxy Beam",
+    "description": "Feature-rich smartphone with excellent camera and fast charging.",
+    "specification": [
+      "Fast Charging",
+      "128GB Storage",
+      "Triple Camera",
+      "5G Connectivity"
+    ]
+  },
+  {
+    "_id": "b48ae531-cae9-4e96-8b5b-b5872d81ac69",
+    "category": "watch",
+    "productName": "ChronoGo",
+    "description": "Elegant smartwatch with fitness tracking and notifications.",
+    "specification": [
+      "Water Resistant",
+      "Sleep Tracking",
+      "GPS",
+      "Custom Watch Faces"
+    ]
+  },
+  {
+    "_id": "38ef9ed4-e4d9-4fbe-8d07-54bec246f80c",
+    "category": "watch",
+    "productName": "SmartWatch Z",
+    "description": "Stylish and durable watch with multiple sports modes.",
+    "specification": [
+      "Custom Watch Faces",
+      "Sleep Tracking",
+      "Heart Rate Monitor",
+      "Water Resistant"
+    ]
+  },
+  {
+    "_id": "6ed8bef8-eb52-457e-969b-5cbc63d75b4f",
+    "category": "smartphone",
+    "productName": "OneEdge",
+    "description": "Latest-gen smartphone with brilliant display and powerful processor.",
+    "specification": [
+      "Fast Charging",
+      "Triple Camera",
+      "5G Connectivity",
+      "128GB Storage"
+    ]
+  },
+  {
+    "_id": "098335a1-8f66-41bf-b0c4-5f3a84bfd58a",
+    "category": "laptop",
+    "productName": "NeoEdge 14",
+    "description": "Slim and powerful laptop with long battery life.",
+    "specification": [
+      "512GB SSD",
+      "14-inch Display",
+      "Backlit Keyboard",
+      "Intel i7"
+    ]
+  },
+  {
+    "_id": "76678a03-3cfd-41ca-9b99-983867babd5f",
+    "category": "laptop",
+    "productName": "QuantumBook",
+    "description": "Slim and powerful laptop with long battery life.",
+    "specification": [
+      "Backlit Keyboard",
+      "14-inch Display",
+      "Intel i7",
+      "16GB RAM"
+    ]
+  },
+  {
+    "_id": "0f7cb711-5b0c-481b-9c2d-747cbb72cc45",
+    "category": "camera",
+    "productName": "ProShot DSLR",
+    "description": "High-performance camera with exceptional clarity and advanced imaging features.",
+    "specification": [
+      "Touchscreen LCD",
+      "Interchangeable Lens",
+      "4K Video Recording",
+      "24MP Sensor"
+    ]
+  },
+  {
+    "_id": "60de9439-d150-4e31-a821-a6a645ff8f69",
+    "category": "camera",
+    "productName": "ProShot DSLR",
+    "description": "DSLR camera with professional-grade image quality and video recording.",
+    "specification": [
+      "4K Video Recording",
+      "Interchangeable Lens",
+      "24MP Sensor",
+      "Touchscreen LCD"
+    ]
+  },
+  {
+    "_id": "81da71dd-b3da-4ddb-9e86-fca41bebe284",
+    "category": "watch",
+    "productName": "SmartWatch Z",
+    "description": "Elegant smartwatch with fitness tracking and notifications.",
+    "specification": [
+      "Heart Rate Monitor",
+      "Sleep Tracking",
+      "Custom Watch Faces",
+      "GPS"
+    ]
+  },
+  {
+    "_id": "c0ed0827-9084-4f63-b7b0-3ab04efa76ac",
+    "category": "camera",
+    "productName": "VividPix Camera",
+    "description": "High-performance camera with exceptional clarity and advanced imaging features.",
+    "specification": [
+      "4K Video Recording",
+      "Touchscreen LCD",
+      "Wi-Fi & Bluetooth",
+      "Interchangeable Lens"
+    ]
+  },
+  {
+    "_id": "33f8ff26-60f2-4afd-8ffa-ddbd361aeb81",
+    "category": "watch",
+    "productName": "TimeTrack Elite",
+    "description": "Elegant smartwatch with fitness tracking and notifications.",
+    "specification": [
+      "Water Resistant",
+      "Custom Watch Faces",
+      "Sleep Tracking",
+      "GPS"
+    ]
+  },
+  {
+    "_id": "dd2334a3-853b-4571-81b4-219d124eb998",
+    "category": "headphones",
+    "productName": "QuietBeat",
+    "description": "Noise-canceling headphones with immersive sound quality.",
+    "specification": [
+      "Bluetooth 5.0",
+      "Over-Ear Design",
+      "Built-in Mic",
+      "Noise Cancellation"
+    ]
+  },
+  {
+    "_id": "5f657ab5-3998-4d74-978e-0b97bdfd97d5",
+    "category": "laptop",
+    "productName": "UltraLap Pro",
+    "description": "High-performance laptop for professionals and gamers.",
+    "specification": [
+      "Intel i7",
+      "512GB SSD",
+      "Backlit Keyboard",
+      "16GB RAM"
+    ]
+  },
+  {
+    "_id": "e7ba9171-0bce-440d-a9cb-13106e58d31e",
+    "category": "laptop",
+    "productName": "NeoEdge 14",
+    "description": "Slim and powerful laptop with long battery life.",
+    "specification": [
+      "16GB RAM",
+      "14-inch Display",
+      "Backlit Keyboard",
+      "512GB SSD"
+    ]
+  },
+  {
+    "_id": "6aa0a7fb-e402-4fc0-8001-45eadb032a8c",
+    "category": "laptop",
+    "productName": "QuantumBook",
+    "description": "High-performance laptop for professionals and gamers.",
+    "specification": [
+      "Backlit Keyboard",
+      "16GB RAM",
+      "Intel i7",
+      "14-inch Display"
+    ]
+  },
+  {
+    "_id": "8c6ce509-9bba-4618-8aa9-0e78cf2799ab",
+    "category": "watch",
+    "productName": "WristMate",
+    "description": "Elegant smartwatch with fitness tracking and notifications.",
+    "specification": [
+      "Custom Watch Faces",
+      "GPS",
+      "Heart Rate Monitor",
+      "Sleep Tracking"
+    ]
+  },
+  {
+    "_id": "1be39bd4-1e2c-4fd2-99ec-175b8b17ed6e",
+    "category": "smartphone",
+    "productName": "SmartOne X",
+    "description": "Feature-rich smartphone with excellent camera and fast charging.",
+    "specification": [
+      "5G Connectivity",
+      "6.5-inch AMOLED",
+      "Triple Camera",
+      "128GB Storage"
+    ]
+  },
+  {
+    "_id": "f3dece25-5911-4ed8-b327-d93509a822ee",
+    "category": "headphones",
+    "productName": "BassBlitz Pro",
+    "description": "Wireless headphones with long battery life and deep bass.",
+    "specification": [
+      "Noise Cancellation",
+      "Bluetooth 5.0",
+      "20hr Battery",
+      "Built-in Mic"
+    ]
+  },
+  {
+    "_id": "16a3962b-3b21-461b-8ab7-c50ffb420377",
+    "category": "camera",
+    "productName": "SnapMaster",
+    "description": "High-performance camera with exceptional clarity and advanced imaging features.",
+    "specification": [
+      "Touchscreen LCD",
+      "Interchangeable Lens",
+      "4K Video Recording",
+      "Wi-Fi & Bluetooth"
+    ]
+  },
+  {
+    "_id": "6c8b0a06-c33b-430c-ac4c-01845fa55b78",
+    "category": "camera",
+    "productName": "SnapMaster",
+    "description": "DSLR camera with professional-grade image quality and video recording.",
+    "specification": [
+      "Touchscreen LCD",
+      "4K Video Recording",
+      "24MP Sensor",
+      "Wi-Fi & Bluetooth"
+    ]
+  },
+  {
+    "_id": "39016cc1-fbb0-4f7e-ae69-ca684dae0356",
+    "category": "watch",
+    "productName": "SmartWatch Z",
+    "description": "Elegant smartwatch with fitness tracking and notifications.",
+    "specification": [
+      "Heart Rate Monitor",
+      "Water Resistant",
+      "Custom Watch Faces",
+      "GPS"
+    ]
+  },
+  {
+    "_id": "10d3c91f-711f-447d-aca0-f0874efbe92b",
+    "category": "headphones",
+    "productName": "BassBlitz Pro",
+    "description": "Noise-canceling headphones with immersive sound quality.",
+    "specification": [
+      "Noise Cancellation",
+      "Built-in Mic",
+      "Over-Ear Design",
+      "Bluetooth 5.0"
+    ]
+  },
+  {
+    "_id": "32a05635-733e-4c25-a6d8-021dadae845b",
+    "category": "watch",
+    "productName": "WristMate",
+    "description": "Elegant smartwatch with fitness tracking and notifications.",
+    "specification": [
+      "Sleep Tracking",
+      "Custom Watch Faces",
+      "Water Resistant",
+      "GPS"
+    ]
+  },
+  {
+    "_id": "4aa3c887-f8e1-478e-b6fb-74f274c28ad4",
+    "category": "smartphone",
+    "productName": "iNova S",
+    "description": "Latest-gen smartphone with brilliant display and powerful processor.",
+    "specification": [
+      "128GB Storage",
+      "Triple Camera",
+      "Fast Charging",
+      "6.5-inch AMOLED"
+    ]
+  },
+  {
+    "_id": "6fb5dd0f-a07c-4fad-8bec-6e0d80b7c959",
+    "category": "laptop",
+    "productName": "SpeedMate 15",
+    "description": "High-performance laptop for professionals and gamers.",
+    "specification": [
+      "16GB RAM",
+      "512GB SSD",
+      "Intel i7",
+      "Backlit Keyboard"
+    ]
+  },
+  {
+    "_id": "69521ec8-14bb-42d3-89a1-d8feb9c8a9ee",
+    "category": "laptop",
+    "productName": "NeoEdge 14",
+    "description": "Slim and powerful laptop with long battery life.",
+    "specification": [
+      "512GB SSD",
+      "Intel i7",
+      "Backlit Keyboard",
+      "14-inch Display"
+    ]
+  },
+  {
+    "_id": "4c1250bc-3a86-495e-a70c-fbcd96c89adc",
+    "category": "smartphone",
+    "productName": "OneEdge",
+    "description": "Feature-rich smartphone with excellent camera and fast charging.",
+    "specification": [
+      "5G Connectivity",
+      "6.5-inch AMOLED",
+      "128GB Storage",
+      "Triple Camera"
+    ]
+  },
+  {
+    "_id": "ae814060-9f3d-4744-acdb-04d27d73e56c",
+    "category": "camera",
+    "productName": "UltraZoom Cam",
+    "description": "High-performance camera with exceptional clarity and advanced imaging features.",
+    "specification": [
+      "Interchangeable Lens",
+      "4K Video Recording",
+      "24MP Sensor",
+      "Touchscreen LCD"
+    ]
+  },
+  {
+    "_id": "b8109a98-06fe-47b0-b04c-a66e37e27487",
+    "category": "camera",
+    "productName": "ProShot DSLR",
+    "description": "High-performance camera with exceptional clarity and advanced imaging features.",
+    "specification": [
+      "4K Video Recording",
+      "Touchscreen LCD",
+      "Interchangeable Lens",
+      "Wi-Fi & Bluetooth"
+    ]
+  },
+  {
+    "_id": "56852937-8c21-4cbe-aa9f-05b29d0872da",
+    "category": "laptop",
+    "productName": "UltraLap Pro",
+    "description": "High-performance laptop for professionals and gamers.",
+    "specification": [
+      "Intel i7",
+      "16GB RAM",
+      "14-inch Display",
+      "Backlit Keyboard"
+    ]
+  },
+  {
+    "_id": "3cbba8e2-f2a7-464c-830f-ef3cf2f39bbf",
+    "category": "laptop",
+    "productName": "SpeedMate 15",
+    "description": "High-performance laptop for professionals and gamers.",
+    "specification": [
+      "Intel i7",
+      "512GB SSD",
+      "16GB RAM",
+      "14-inch Display"
+    ]
+  },
+  {
+    "_id": "5523e599-aba3-4bb0-9375-f5e9a96d314a",
+    "category": "headphones",
+    "productName": "AudioMax 900",
+    "description": "Noise-canceling headphones with immersive sound quality.",
+    "specification": [
+      "Built-in Mic",
+      "Over-Ear Design",
+      "Noise Cancellation",
+      "Bluetooth 5.0"
+    ]
+  },
+  {
+    "_id": "f0cb784b-956b-49b9-a0b3-fbc66b872ee7",
+    "category": "smartphone",
+    "productName": "Galaxy Beam",
+    "description": "Feature-rich smartphone with excellent camera and fast charging.",
+    "specification": [
+      "6.5-inch AMOLED",
+      "Fast Charging",
+      "Triple Camera",
+      "5G Connectivity"
+    ]
+  },
+  {
+    "_id": "06ac9915-f59e-41d8-abc2-5fdf8b4ad619",
+    "category": "camera",
+    "productName": "ProShot DSLR",
+    "description": "High-performance camera with exceptional clarity and advanced imaging features.",
+    "specification": [
+      "24MP Sensor",
+      "Wi-Fi & Bluetooth",
+      "Touchscreen LCD",
+      "4K Video Recording"
+    ]
+  },
+  {
+    "_id": "af526168-64ec-42d8-a453-3482a4576859",
+    "category": "laptop",
+    "productName": "NeoEdge 14",
+    "description": "Slim and powerful laptop with long battery life.",
+    "specification": [
+      "512GB SSD",
+      "16GB RAM",
+      "Intel i7",
+      "Backlit Keyboard"
+    ]
+  },
+  {
+    "_id": "ec0cde1a-932d-4c66-b8b8-9c3daa000ee8",
+    "category": "camera",
+    "productName": "PixelPro Cam",
+    "description": "DSLR camera with professional-grade image quality and video recording.",
+    "specification": [
+      "Wi-Fi & Bluetooth",
+      "Touchscreen LCD",
+      "24MP Sensor",
+      "Interchangeable Lens"
+    ]
+  },
+  {
+    "_id": "9f341ea5-22bc-4fec-9a7d-26e0a3786567",
+    "category": "camera",
+    "productName": "ProShot DSLR",
+    "description": "DSLR camera with professional-grade image quality and video recording.",
+    "specification": [
+      "Touchscreen LCD",
+      "4K Video Recording",
+      "Wi-Fi & Bluetooth",
+      "Interchangeable Lens"
+    ]
+  },
+  {
+    "_id": "dfff121d-84f6-4437-b861-a215662bf1a4",
+    "category": "watch",
+    "productName": "PulseSync",
+    "description": "Stylish and durable watch with multiple sports modes.",
+    "specification": [
+      "GPS",
+      "Custom Watch Faces",
+      "Sleep Tracking",
+      "Heart Rate Monitor"
+    ]
+  },
+  {
+    "_id": "43332b7b-f8ba-42b8-b7a6-6d2f93a3ebb3",
+    "category": "laptop",
+    "productName": "SpeedMate 15",
+    "description": "Slim and powerful laptop with long battery life.",
+    "specification": [
+      "512GB SSD",
+      "Backlit Keyboard",
+      "16GB RAM",
+      "Intel i7"
+    ]
+  },
+  {
+    "_id": "93b50caa-9515-4979-b941-dae89deca8e6",
+    "category": "headphones",
+    "productName": "AudioMax 900",
+    "description": "Wireless headphones with long battery life and deep bass.",
+    "specification": [
+      "Over-Ear Design",
+      "Bluetooth 5.0",
+      "Noise Cancellation",
+      "Built-in Mic"
+    ]
+  },
+  {
+    "_id": "23176f06-35aa-4a6c-8d44-06a7e26e6ab6",
+    "category": "smartphone",
+    "productName": "SmartOne X",
+    "description": "Latest-gen smartphone with brilliant display and powerful processor.",
+    "specification": [
+      "6.5-inch AMOLED",
+      "Triple Camera",
+      "128GB Storage",
+      "5G Connectivity"
+    ]
+  },
+  {
+    "_id": "67f1fe3b-ed10-45be-af31-5ff3b443ad88",
+    "category": "watch",
+    "productName": "SmartWatch Z",
+    "description": "Stylish and durable watch with multiple sports modes.",
+    "specification": [
+      "Water Resistant",
+      "Sleep Tracking",
+      "Heart Rate Monitor",
+      "GPS"
+    ]
+  },
+  {
+    "_id": "84dd97e5-b6cf-4788-a976-1b632ddd71b7",
+    "category": "watch",
+    "productName": "WristMate",
+    "description": "Elegant smartwatch with fitness tracking and notifications.",
+    "specification": [
+      "Custom Watch Faces",
+      "GPS",
+      "Sleep Tracking",
+      "Heart Rate Monitor"
+    ]
+  },
+  {
+    "_id": "3c9ce410-25d2-4766-a1a9-02225f90196d",
+    "category": "headphones",
+    "productName": "BassBlitz Pro",
+    "description": "Noise-canceling headphones with immersive sound quality.",
+    "specification": [
+      "Built-in Mic",
+      "Over-Ear Design",
+      "Bluetooth 5.0",
+      "20hr Battery"
+    ]
+  },
+  {
+    "_id": "cf584fec-0bdc-4dce-ab03-025fde9b8a38",
+    "category": "smartphone",
+    "productName": "SmartOne X",
+    "description": "Latest-gen smartphone with brilliant display and powerful processor.",
+    "specification": [
+      "Fast Charging",
+      "Triple Camera",
+      "6.5-inch AMOLED",
+      "5G Connectivity"
+    ]
+  },
+  {
+    "_id": "d439a7e8-6585-4f4d-a99f-0b597ed3f025",
+    "category": "headphones",
+    "productName": "BassBlitz Pro",
+    "description": "Noise-canceling headphones with immersive sound quality.",
+    "specification": [
+      "Bluetooth 5.0",
+      "Built-in Mic",
+      "Over-Ear Design",
+      "20hr Battery"
+    ]
+  },
+  {
+    "_id": "925eaa5b-7f50-4a28-8069-39f98fa252fa",
+    "category": "watch",
+    "productName": "TimeTrack Elite",
+    "description": "Stylish and durable watch with multiple sports modes.",
+    "specification": [
+      "Water Resistant",
+      "Custom Watch Faces",
+      "Sleep Tracking",
+      "Heart Rate Monitor"
+    ]
+  },
+  {
+    "_id": "7691ce64-cc28-42d1-be6b-af6b5f1487e0",
+    "category": "headphones",
+    "productName": "AudioMax 900",
+    "description": "Wireless headphones with long battery life and deep bass.",
+    "specification": [
+      "Built-in Mic",
+      "Bluetooth 5.0",
+      "Over-Ear Design",
+      "Noise Cancellation"
+    ]
+  },
+  {
+    "_id": "4b0a69d9-18a7-456d-b69b-0bf0fa82a73e",
+    "category": "camera",
+    "productName": "UltraZoom Cam",
+    "description": "DSLR camera with professional-grade image quality and video recording.",
+    "specification": [
+      "Interchangeable Lens",
+      "Touchscreen LCD",
+      "Wi-Fi & Bluetooth",
+      "24MP Sensor"
+    ]
+  },
+  {
+    "_id": "021a5dec-6635-4af7-a22d-014824f8f344",
+    "category": "watch",
+    "productName": "ChronoGo",
+    "description": "Elegant smartwatch with fitness tracking and notifications.",
+    "specification": [
+      "Heart Rate Monitor",
+      "Sleep Tracking",
+      "Custom Watch Faces",
+      "Water Resistant"
+    ]
+  },
+  {
+    "_id": "d0631775-2cae-46eb-a93d-4d69151d9157",
+    "category": "camera",
+    "productName": "VividPix Camera",
+    "description": "DSLR camera with professional-grade image quality and video recording.",
+    "specification": [
+      "Wi-Fi & Bluetooth",
+      "Interchangeable Lens",
+      "24MP Sensor",
+      "Touchscreen LCD"
+    ]
+  },
+  {
+    "_id": "70189ea7-e366-4d39-b344-3e1f4de39316",
+    "category": "watch",
+    "productName": "PulseSync",
+    "description": "Stylish and durable watch with multiple sports modes.",
+    "specification": [
+      "Custom Watch Faces",
+      "Heart Rate Monitor",
+      "Sleep Tracking",
+      "Water Resistant"
+    ]
+  },
+  {
+    "_id": "0c0e603a-15a3-4d64-9a0c-a3fd74111f9e",
+    "category": "camera",
+    "productName": "PixelPro Cam",
+    "description": "DSLR camera with professional-grade image quality and video recording.",
+    "specification": [
+      "Wi-Fi & Bluetooth",
+      "24MP Sensor",
+      "Touchscreen LCD",
+      "4K Video Recording"
+    ]
+  },
+  {
+    "_id": "50e3856e-dcc1-49b0-a2c6-1ab1ff8ebdd0",
+    "category": "smartphone",
+    "productName": "iNova S",
+    "description": "Feature-rich smartphone with excellent camera and fast charging.",
+    "specification": [
+      "Fast Charging",
+      "5G Connectivity",
+      "6.5-inch AMOLED",
+      "Triple Camera"
+    ]
+  },
+  {
+    "_id": "4c6d0229-f118-4f7c-8394-1debf7d7f1ba",
+    "category": "headphones",
+    "productName": "AudioMax 900",
+    "description": "Noise-canceling headphones with immersive sound quality.",
+    "specification": [
+      "Built-in Mic",
+      "Bluetooth 5.0",
+      "20hr Battery",
+      "Noise Cancellation"
+    ]
+  },
+  {
+    "_id": "b622f1bd-2d72-4ccd-9dcc-08d236ab8ad3",
+    "category": "laptop",
+    "productName": "NeoEdge 14",
+    "description": "Slim and powerful laptop with long battery life.",
+    "specification": [
+      "14-inch Display",
+      "Backlit Keyboard",
+      "512GB SSD",
+      "16GB RAM"
+    ]
+  },
+  {
+    "_id": "1f345719-5237-43d5-9f3c-457477a8e2a1",
+    "category": "headphones",
+    "productName": "SoundNest",
+    "description": "Noise-canceling headphones with immersive sound quality.",
+    "specification": [
+      "Over-Ear Design",
+      "Built-in Mic",
+      "Noise Cancellation",
+      "20hr Battery"
+    ]
+  },
+  {
+    "_id": "a46587f9-8d22-4f03-8b02-3dd80d5ef01b",
+    "category": "watch",
+    "productName": "SmartWatch Z",
+    "description": "Elegant smartwatch with fitness tracking and notifications.",
+    "specification": [
+      "GPS",
+      "Water Resistant",
+      "Heart Rate Monitor",
+      "Sleep Tracking"
+    ]
+  },
+  {
+    "_id": "082861d7-a872-45ed-91dd-89d9c953e202",
+    "category": "watch",
+    "productName": "ChronoGo",
+    "description": "Elegant smartwatch with fitness tracking and notifications.",
+    "specification": [
+      "GPS",
+      "Water Resistant",
+      "Custom Watch Faces",
+      "Heart Rate Monitor"
+    ]
+  },
+  {
+    "_id": "c4384485-19e9-4ff5-95ef-7341711bc5e2",
+    "category": "watch",
+    "productName": "SmartWatch Z",
+    "description": "Elegant smartwatch with fitness tracking and notifications.",
+    "specification": [
+      "Custom Watch Faces",
+      "Heart Rate Monitor",
+      "Water Resistant",
+      "GPS"
+    ]
+  },
+  {
+    "_id": "afc1ec74-3bf4-4fb2-9a46-0c0c5e83c868",
+    "category": "camera",
+    "productName": "PixelPro Cam",
+    "description": "DSLR camera with professional-grade image quality and video recording.",
+    "specification": [
+      "Wi-Fi & Bluetooth",
+      "24MP Sensor",
+      "4K Video Recording",
+      "Interchangeable Lens"
+    ]
+  },
+  {
+    "_id": "8bcd028b-a130-484a-a4a5-55f4f9686746",
+    "category": "camera",
+    "productName": "SnapMaster",
+    "description": "High-performance camera with exceptional clarity and advanced imaging features.",
+    "specification": [
+      "4K Video Recording",
+      "24MP Sensor",
+      "Interchangeable Lens",
+      "Touchscreen LCD"
+    ]
+  },
+  {
+    "_id": "c6b175d0-f08f-43ce-b77c-c4272653cf01",
+    "category": "camera",
+    "productName": "SnapMaster",
+    "description": "DSLR camera with professional-grade image quality and video recording.",
+    "specification": [
+      "Touchscreen LCD",
+      "Interchangeable Lens",
+      "Wi-Fi & Bluetooth",
+      "24MP Sensor"
+    ]
+  },
+  {
+    "_id": "f3a4ed35-40a0-4e1a-8cd8-f4e02d76b75c",
+    "category": "camera",
+    "productName": "ProShot DSLR",
+    "description": "High-performance camera with exceptional clarity and advanced imaging features.",
+    "specification": [
+      "Interchangeable Lens",
+      "Wi-Fi & Bluetooth",
+      "24MP Sensor",
+      "4K Video Recording"
+    ]
+  },
+  {
+    "_id": "a82718b4-23bb-49da-9236-81098e025501",
+    "category": "watch",
+    "productName": "PulseSync",
+    "description": "Elegant smartwatch with fitness tracking and notifications.",
+    "specification": [
+      "GPS",
+      "Water Resistant",
+      "Custom Watch Faces",
+      "Sleep Tracking"
+    ]
+  },
+  {
+    "_id": "f10a6358-ef9b-41f8-b056-02b146e6087a",
+    "category": "headphones",
+    "productName": "QuietBeat",
+    "description": "Wireless headphones with long battery life and deep bass.",
+    "specification": [
+      "Built-in Mic",
+      "Noise Cancellation",
+      "Bluetooth 5.0",
+      "Over-Ear Design"
+    ]
+  },
+  {
+    "_id": "a35d1808-b1c8-487d-ab6a-f1a73aa3f6cf",
+    "category": "headphones",
+    "productName": "AudioMax 900",
+    "description": "Noise-canceling headphones with immersive sound quality.",
+    "specification": [
+      "20hr Battery",
+      "Noise Cancellation",
+      "Over-Ear Design",
+      "Built-in Mic"
+    ]
+  },
+  {
+    "_id": "f48a09b1-4dbc-4ad6-bef2-4fe1ce06543d",
+    "category": "headphones",
+    "productName": "BassBlitz Pro",
+    "description": "Wireless headphones with long battery life and deep bass.",
+    "specification": [
+      "Bluetooth 5.0",
+      "20hr Battery",
+      "Built-in Mic",
+      "Over-Ear Design"
+    ]
+  },
+  {
+    "_id": "64c86afa-93e9-4241-835b-5ea8b596ad32",
+    "category": "camera",
+    "productName": "VividPix Camera",
+    "description": "High-performance camera with exceptional clarity and advanced imaging features.",
+    "specification": [
+      "Wi-Fi & Bluetooth",
+      "Touchscreen LCD",
+      "24MP Sensor",
+      "4K Video Recording"
+    ]
+  },
+  {
+    "_id": "666de011-245b-41b9-a8ab-f71aff3ce82d",
+    "category": "headphones",
+    "productName": "AudioMax 900",
+    "description": "Wireless headphones with long battery life and deep bass.",
+    "specification": [
+      "Over-Ear Design",
+      "Built-in Mic",
+      "Noise Cancellation",
+      "Bluetooth 5.0"
+    ]
+  },
+  {
+    "_id": "3855aeec-a5d0-4cba-83cc-c3f659bbf05b",
+    "category": "smartphone",
+    "productName": "Galaxy Beam",
+    "description": "Latest-gen smartphone with brilliant display and powerful processor.",
+    "specification": [
+      "Fast Charging",
+      "5G Connectivity",
+      "128GB Storage",
+      "Triple Camera"
+    ]
+  },
+  {
+    "_id": "eb103040-4922-42d6-8b3e-3012ee5e46ac",
+    "category": "smartphone",
+    "productName": "PixelNova",
+    "description": "Latest-gen smartphone with brilliant display and powerful processor.",
+    "specification": [
+      "5G Connectivity",
+      "Triple Camera",
+      "128GB Storage",
+      "6.5-inch AMOLED"
+    ]
+  },
+  {
+    "_id": "803af49e-b029-4fb8-91a1-8f2ab97d7733",
+    "category": "headphones",
+    "productName": "BassBlitz Pro",
+    "description": "Wireless headphones with long battery life and deep bass.",
+    "specification": [
+      "Noise Cancellation",
+      "Built-in Mic",
+      "Bluetooth 5.0",
+      "20hr Battery"
+    ]
+  },
+  {
+    "_id": "fd2210a1-7fd5-4889-bd08-db09f73465e3",
+    "category": "watch",
+    "productName": "PulseSync",
+    "description": "Elegant smartwatch with fitness tracking and notifications.",
+    "specification": [
+      "Heart Rate Monitor",
+      "Water Resistant",
+      "Custom Watch Faces",
+      "Sleep Tracking"
+    ]
+  },
+  {
+    "_id": "9d650d06-ca26-4d2a-b832-1dd1398fe9bb",
+    "category": "smartphone",
+    "productName": "Galaxy Beam",
+    "description": "Latest-gen smartphone with brilliant display and powerful processor.",
+    "specification": [
+      "Triple Camera",
+      "5G Connectivity",
+      "Fast Charging",
+      "6.5-inch AMOLED"
+    ]
+  },
+  {
+    "_id": "f3ceef04-e6ad-4d09-9098-897f24880d6e",
+    "category": "smartphone",
+    "productName": "iNova S",
+    "description": "Feature-rich smartphone with excellent camera and fast charging.",
+    "specification": [
+      "Triple Camera",
+      "6.5-inch AMOLED",
+      "5G Connectivity",
+      "128GB Storage"
+    ]
+  },
+  {
+    "_id": "dd1c9405-15cd-4038-8f9c-dbfd56160f2d",
+    "category": "laptop",
+    "productName": "TechBook X1",
+    "description": "Slim and powerful laptop with long battery life.",
+    "specification": [
+      "Intel i7",
+      "512GB SSD",
+      "14-inch Display",
+      "16GB RAM"
+    ]
+  },
+  {
+    "_id": "199607e7-6328-4b08-bbb3-f7d4247696e3",
+    "category": "smartphone",
+    "productName": "SmartOne X",
+    "description": "Latest-gen smartphone with brilliant display and powerful processor.",
+    "specification": [
+      "128GB Storage",
+      "5G Connectivity",
+      "6.5-inch AMOLED",
+      "Triple Camera"
+    ]
+  },
+  {
+    "_id": "e4b68778-ae2f-4515-87c3-4b9f3d180e10",
+    "category": "smartphone",
+    "productName": "SmartOne X",
+    "description": "Latest-gen smartphone with brilliant display and powerful processor.",
+    "specification": [
+      "5G Connectivity",
+      "Triple Camera",
+      "128GB Storage",
+      "6.5-inch AMOLED"
+    ]
+  },
+  {
+    "_id": "cef489fd-71aa-4ac1-a524-d6889e3c6c65",
+    "category": "camera",
+    "productName": "SnapMaster",
+    "description": "DSLR camera with professional-grade image quality and video recording.",
+    "specification": [
+      "24MP Sensor",
+      "4K Video Recording",
+      "Interchangeable Lens",
+      "Wi-Fi & Bluetooth"
+    ]
+  },
+  {
+    "_id": "3b2840b4-fd33-405d-aa98-959b1be2099d",
+    "category": "watch",
+    "productName": "ChronoGo",
+    "description": "Elegant smartwatch with fitness tracking and notifications.",
+    "specification": [
+      "Custom Watch Faces",
+      "Heart Rate Monitor",
+      "GPS",
+      "Water Resistant"
+    ]
+  },
+  {
+    "_id": "ff513dd8-754b-4e26-87fa-00648a13bebb",
+    "category": "laptop",
+    "productName": "TechBook X1",
+    "description": "High-performance laptop for professionals and gamers.",
+    "specification": [
+      "Intel i7",
+      "14-inch Display",
+      "16GB RAM",
+      "512GB SSD"
+    ]
+  },
+  {
+    "_id": "8d4b9dea-71e4-48a0-9b51-b8a9fbad5845",
+    "category": "smartphone",
+    "productName": "SmartOne X",
+    "description": "Latest-gen smartphone with brilliant display and powerful processor.",
+    "specification": [
+      "5G Connectivity",
+      "Triple Camera",
+      "Fast Charging",
+      "6.5-inch AMOLED"
+    ]
+  },
+  {
+    "_id": "dc2e3d23-5efd-4c83-86e6-d38a77edafa6",
+    "category": "headphones",
+    "productName": "SoundNest",
+    "description": "Noise-canceling headphones with immersive sound quality.",
+    "specification": [
+      "Over-Ear Design",
+      "Built-in Mic",
+      "Noise Cancellation",
+      "Bluetooth 5.0"
+    ]
+  },
+  {
+    "_id": "6933a6d1-09c4-4b3d-8978-b8f1bb46e27a",
+    "category": "smartphone",
+    "productName": "OneEdge",
+    "description": "Latest-gen smartphone with brilliant display and powerful processor.",
+    "specification": [
+      "Fast Charging",
+      "6.5-inch AMOLED",
+      "128GB Storage",
+      "5G Connectivity"
+    ]
+  },
+  {
+    "_id": "e88c8587-9587-4f2a-945c-5472d588d604",
+    "category": "smartphone",
+    "productName": "Galaxy Beam",
+    "description": "Feature-rich smartphone with excellent camera and fast charging.",
+    "specification": [
+      "Fast Charging",
+      "128GB Storage",
+      "5G Connectivity",
+      "6.5-inch AMOLED"
+    ]
+  },
+  {
+    "_id": "ea04a4fb-160b-43d4-8eac-f62b905ef5f5",
+    "category": "laptop",
+    "productName": "SpeedMate 15",
+    "description": "High-performance laptop for professionals and gamers.",
+    "specification": [
+      "14-inch Display",
+      "16GB RAM",
+      "Intel i7",
+      "512GB SSD"
+    ]
+  },
+  {
+    "_id": "d6ddf6ea-3dd4-4503-9b32-35e43c6c0ae9",
+    "category": "laptop",
+    "productName": "UltraLap Pro",
+    "description": "Slim and powerful laptop with long battery life.",
+    "specification": [
+      "Backlit Keyboard",
+      "512GB SSD",
+      "16GB RAM",
+      "14-inch Display"
+    ]
+  },
+  {
+    "_id": "2c09d891-2089-4cfe-8727-44d6a1ca7765",
+    "category": "camera",
+    "productName": "ProShot DSLR",
+    "description": "High-performance camera with exceptional clarity and advanced imaging features.",
+    "specification": [
+      "Wi-Fi & Bluetooth",
+      "4K Video Recording",
+      "24MP Sensor",
+      "Interchangeable Lens"
+    ]
+  },
+  {
+    "_id": "e2f88166-aada-4c6f-beca-5cff69b8cb70",
+    "category": "camera",
+    "productName": "PixelPro Cam",
+    "description": "High-performance camera with exceptional clarity and advanced imaging features.",
+    "specification": [
+      "24MP Sensor",
+      "Interchangeable Lens",
+      "Wi-Fi & Bluetooth",
+      "4K Video Recording"
+    ]
+  },
+  {
+    "_id": "ec351220-deb7-4c1f-9184-959b0f68b779",
+    "category": "watch",
+    "productName": "ChronoGo",
+    "description": "Stylish and durable watch with multiple sports modes.",
+    "specification": [
+      "GPS",
+      "Custom Watch Faces",
+      "Sleep Tracking",
+      "Water Resistant"
+    ]
+  },
+  {
+    "_id": "b42573d2-c478-4bc4-8174-f615798d86b8",
+    "category": "laptop",
+    "productName": "TechBook X1",
+    "description": "High-performance laptop for professionals and gamers.",
+    "specification": [
+      "16GB RAM",
+      "14-inch Display",
+      "512GB SSD",
+      "Intel i7"
+    ]
+  },
+  {
+    "_id": "a56a1742-2f90-47a1-8b0d-b4c9e54092df",
+    "category": "laptop",
+    "productName": "TechBook X1",
+    "description": "Slim and powerful laptop with long battery life.",
+    "specification": [
+      "512GB SSD",
+      "Backlit Keyboard",
+      "Intel i7",
+      "14-inch Display"
+    ]
+  },
+  {
+    "_id": "4ceb4836-aef4-439f-88c3-db672ea536cf",
+    "category": "headphones",
+    "productName": "BassBlitz Pro",
+    "description": "Noise-canceling headphones with immersive sound quality.",
+    "specification": [
+      "Bluetooth 5.0",
+      "Noise Cancellation",
+      "20hr Battery",
+      "Over-Ear Design"
+    ]
+  },
+  {
+    "_id": "42b7055d-fb95-4882-822f-5d6f80591aea",
+    "category": "camera",
+    "productName": "VividPix Camera",
+    "description": "DSLR camera with professional-grade image quality and video recording.",
+    "specification": [
+      "Interchangeable Lens",
+      "4K Video Recording",
+      "Wi-Fi & Bluetooth",
+      "24MP Sensor"
+    ]
+  },
+  {
+    "_id": "137ec104-0c49-4f72-a90c-c5319ae633d1",
+    "category": "laptop",
+    "productName": "QuantumBook",
+    "description": "High-performance laptop for professionals and gamers.",
+    "specification": [
+      "Intel i7",
+      "512GB SSD",
+      "Backlit Keyboard",
+      "16GB RAM"
+    ]
+  },
+  {
+    "_id": "cec08586-d1e5-4688-b85a-c127da00dbd6",
+    "category": "laptop",
+    "productName": "SpeedMate 15",
+    "description": "Slim and powerful laptop with long battery life.",
+    "specification": [
+      "512GB SSD",
+      "14-inch Display",
+      "16GB RAM",
+      "Backlit Keyboard"
+    ]
+  },
+  {
+    "_id": "8ed5a409-4a39-4ac0-a772-1964540c82fa",
+    "category": "laptop",
+    "productName": "TechBook X1",
+    "description": "High-performance laptop for professionals and gamers.",
+    "specification": [
+      "16GB RAM",
+      "14-inch Display",
+      "Backlit Keyboard",
+      "512GB SSD"
+    ]
+  },
+  {
+    "_id": "7c3550a5-4b0b-4b2c-88bc-e124d5af8a44",
+    "category": "camera",
+    "productName": "PixelPro Cam",
+    "description": "DSLR camera with professional-grade image quality and video recording.",
+    "specification": [
+      "Touchscreen LCD",
+      "24MP Sensor",
+      "Wi-Fi & Bluetooth",
+      "Interchangeable Lens"
+    ]
+  },
+  {
+    "_id": "3ccc069a-5f7b-48c1-968e-0ad1042dfdd7",
+    "category": "laptop",
+    "productName": "NeoEdge 14",
+    "description": "Slim and powerful laptop with long battery life.",
+    "specification": [
+      "512GB SSD",
+      "14-inch Display",
+      "16GB RAM",
+      "Intel i7"
+    ]
+  },
+  {
+    "_id": "ec1e8048-1956-4418-a596-53fad21c9671",
+    "category": "laptop",
+    "productName": "NeoEdge 14",
+    "description": "High-performance laptop for professionals and gamers.",
+    "specification": [
+      "512GB SSD",
+      "Intel i7",
+      "14-inch Display",
+      "Backlit Keyboard"
+    ]
+  },
+  {
+    "_id": "0bca6100-85af-49fc-9188-aa7221a05cc2",
+    "category": "smartphone",
+    "productName": "PixelNova",
+    "description": "Latest-gen smartphone with brilliant display and powerful processor.",
+    "specification": [
+      "6.5-inch AMOLED",
+      "5G Connectivity",
+      "128GB Storage",
+      "Fast Charging"
+    ]
+  },
+  {
+    "_id": "0002b349-6b8e-43b3-8d69-b76ad7c5226f",
+    "category": "watch",
+    "productName": "SmartWatch Z",
+    "description": "Elegant smartwatch with fitness tracking and notifications.",
+    "specification": [
+      "GPS",
+      "Water Resistant",
+      "Custom Watch Faces",
+      "Heart Rate Monitor"
+    ]
+  },
+  {
+    "_id": "6d694346-8c69-4dc2-bb98-3f34c6340b8b",
+    "category": "laptop",
+    "productName": "UltraLap Pro",
+    "description": "High-performance laptop for professionals and gamers.",
+    "specification": [
+      "Intel i7",
+      "16GB RAM",
+      "512GB SSD",
+      "14-inch Display"
+    ]
+  },
+  {
+    "_id": "1a207ba9-601d-49fc-87c1-e3fa61db4bdc",
+    "category": "camera",
+    "productName": "VividPix Camera",
+    "description": "DSLR camera with professional-grade image quality and video recording.",
+    "specification": [
+      "4K Video Recording",
+      "24MP Sensor",
+      "Wi-Fi & Bluetooth",
+      "Interchangeable Lens"
+    ]
+  },
+  {
+    "_id": "609cff44-23bc-4b31-b638-aafeb1adb5a4",
+    "category": "headphones",
+    "productName": "BassBlitz Pro",
+    "description": "Noise-canceling headphones with immersive sound quality.",
+    "specification": [
+      "Noise Cancellation",
+      "20hr Battery",
+      "Bluetooth 5.0",
+      "Over-Ear Design"
+    ]
+  },
+  {
+    "_id": "1f8c6989-bf81-41e8-8f22-a1b4ff876831",
+    "category": "camera",
+    "productName": "SnapMaster",
+    "description": "High-performance camera with exceptional clarity and advanced imaging features.",
+    "specification": [
+      "Interchangeable Lens",
+      "24MP Sensor",
+      "Wi-Fi & Bluetooth",
+      "Touchscreen LCD"
+    ]
+  },
+  {
+    "_id": "756d431a-ee0e-4fc4-8110-1a684a028cb6",
+    "category": "camera",
+    "productName": "UltraZoom Cam",
+    "description": "High-performance camera with exceptional clarity and advanced imaging features.",
+    "specification": [
+      "24MP Sensor",
+      "4K Video Recording",
+      "Touchscreen LCD",
+      "Wi-Fi & Bluetooth"
+    ]
+  },
+  {
+    "_id": "367a9921-98ad-4920-bf2c-9730254b7a68",
+    "category": "headphones",
+    "productName": "SoundNest",
+    "description": "Noise-canceling headphones with immersive sound quality.",
+    "specification": [
+      "Built-in Mic",
+      "Noise Cancellation",
+      "Bluetooth 5.0",
+      "20hr Battery"
+    ]
+  },
+  {
+    "_id": "5aa7bb0c-731d-4f8b-a999-d230ebdf410d",
+    "category": "headphones",
+    "productName": "BassBlitz Pro",
+    "description": "Noise-canceling headphones with immersive sound quality.",
+    "specification": [
+      "Bluetooth 5.0",
+      "20hr Battery",
+      "Over-Ear Design",
+      "Built-in Mic"
+    ]
+  },
+  {
+    "_id": "5b18298f-c3c2-4430-8b4a-ec61c3d7b058",
+    "category": "headphones",
+    "productName": "BassBlitz Pro",
+    "description": "Wireless headphones with long battery life and deep bass.",
+    "specification": [
+      "Bluetooth 5.0",
+      "20hr Battery",
+      "Noise Cancellation",
+      "Over-Ear Design"
+    ]
+  },
+  {
+    "_id": "a7a9123e-a1d9-4ee6-8177-afd01f26a8a5",
+    "category": "watch",
+    "productName": "WristMate",
+    "description": "Stylish and durable watch with multiple sports modes.",
+    "specification": [
+      "Sleep Tracking",
+      "Custom Watch Faces",
+      "Heart Rate Monitor",
+      "GPS"
+    ]
+  },
+  {
+    "_id": "33207543-ee98-4320-bdd0-f22f6d228475",
+    "category": "camera",
+    "productName": "SnapMaster",
+    "description": "DSLR camera with professional-grade image quality and video recording.",
+    "specification": [
+      "4K Video Recording",
+      "24MP Sensor",
+      "Wi-Fi & Bluetooth",
+      "Touchscreen LCD"
+    ]
+  },
+  {
+    "_id": "b88bedcd-ee39-4996-a2f8-bf4edb9ddc9a",
+    "category": "headphones",
+    "productName": "BassBlitz Pro",
+    "description": "Wireless headphones with long battery life and deep bass.",
+    "specification": [
+      "Bluetooth 5.0",
+      "Built-in Mic",
+      "20hr Battery",
+      "Over-Ear Design"
+    ]
+  },
+  {
+    "_id": "456f65f9-e0c2-4d08-8e94-e83f0de3e47c",
+    "category": "headphones",
+    "productName": "SoundNest",
+    "description": "Wireless headphones with long battery life and deep bass.",
+    "specification": [
+      "20hr Battery",
+      "Over-Ear Design",
+      "Bluetooth 5.0",
+      "Built-in Mic"
+    ]
+  },
+  {
+    "_id": "65bf7af3-69ae-47d2-b2a5-695ee3a540c4",
+    "category": "smartphone",
+    "productName": "Galaxy Beam",
+    "description": "Latest-gen smartphone with brilliant display and powerful processor.",
+    "specification": [
+      "Triple Camera",
+      "5G Connectivity",
+      "Fast Charging",
+      "6.5-inch AMOLED"
+    ]
+  },
+  {
+    "_id": "470be61d-a873-4498-a68c-5100d894e036",
+    "category": "laptop",
+    "productName": "UltraLap Pro",
+    "description": "Slim and powerful laptop with long battery life.",
+    "specification": [
+      "16GB RAM",
+      "14-inch Display",
+      "Backlit Keyboard",
+      "512GB SSD"
+    ]
+  },
+  {
+    "_id": "d5f372c3-b64d-4301-ae95-55c7a24954a9",
+    "category": "laptop",
+    "productName": "QuantumBook",
+    "description": "High-performance laptop for professionals and gamers.",
+    "specification": [
+      "Backlit Keyboard",
+      "512GB SSD",
+      "14-inch Display",
+      "Intel i7"
+    ]
+  },
+  {
+    "_id": "8fc7eb24-b5e2-47f8-b596-f55dfcb4ae14",
+    "category": "headphones",
+    "productName": "QuietBeat",
+    "description": "Wireless headphones with long battery life and deep bass.",
+    "specification": [
+      "Over-Ear Design",
+      "20hr Battery",
+      "Bluetooth 5.0",
+      "Noise Cancellation"
+    ]
+  },
+  {
+    "_id": "4f116f19-7005-41f8-854e-b92d4de1c654",
+    "category": "smartphone",
+    "productName": "iNova S",
+    "description": "Feature-rich smartphone with excellent camera and fast charging.",
+    "specification": [
+      "128GB Storage",
+      "6.5-inch AMOLED",
+      "Triple Camera",
+      "Fast Charging"
+    ]
+  },
+  {
+    "_id": "7bf8613c-ee6c-4cba-8126-0a6fa4c6e81f",
+    "category": "laptop",
+    "productName": "NeoEdge 14",
+    "description": "Slim and powerful laptop with long battery life.",
+    "specification": [
+      "Backlit Keyboard",
+      "Intel i7",
+      "14-inch Display",
+      "512GB SSD"
+    ]
+  },
+  {
+    "_id": "a73f439d-3257-4f65-b0d0-ff4cc3effcf3",
+    "category": "watch",
+    "productName": "SmartWatch Z",
+    "description": "Elegant smartwatch with fitness tracking and notifications.",
+    "specification": [
+      "Sleep Tracking",
+      "Custom Watch Faces",
+      "Heart Rate Monitor",
+      "GPS"
+    ]
+  },
+  {
+    "_id": "849b1ae3-a272-40c8-9ac2-c3f9a2cc4e10",
+    "category": "camera",
+    "productName": "SnapMaster",
+    "description": "DSLR camera with professional-grade image quality and video recording.",
+    "specification": [
+      "24MP Sensor",
+      "Wi-Fi & Bluetooth",
+      "4K Video Recording",
+      "Interchangeable Lens"
+    ]
+  },
+  {
+    "_id": "0760a975-2ec0-4bc6-8bdb-00e29c2b0a77",
+    "category": "laptop",
+    "productName": "UltraLap Pro",
+    "description": "High-performance laptop for professionals and gamers.",
+    "specification": [
+      "16GB RAM",
+      "512GB SSD",
+      "Backlit Keyboard",
+      "Intel i7"
+    ]
+  },
+  {
+    "_id": "e439df2d-0b2f-4798-9c2f-1572b473e60c",
+    "category": "camera",
+    "productName": "UltraZoom Cam",
+    "description": "High-performance camera with exceptional clarity and advanced imaging features.",
+    "specification": [
+      "Wi-Fi & Bluetooth",
+      "24MP Sensor",
+      "Interchangeable Lens",
+      "4K Video Recording"
+    ]
+  },
+  {
+    "_id": "a5c6d3e9-3d8e-4bec-b7b9-1f874912d307",
+    "category": "watch",
+    "productName": "WristMate",
+    "description": "Elegant smartwatch with fitness tracking and notifications.",
+    "specification": [
+      "Sleep Tracking",
+      "Custom Watch Faces",
+      "GPS",
+      "Water Resistant"
+    ]
+  },
+  {
+    "_id": "c9d5e1fe-5825-47ce-9842-3f892e0779e4",
+    "category": "laptop",
+    "productName": "NeoEdge 14",
+    "description": "High-performance laptop for professionals and gamers.",
+    "specification": [
+      "Backlit Keyboard",
+      "512GB SSD",
+      "14-inch Display",
+      "16GB RAM"
+    ]
+  },
+  {
+    "_id": "27cf5907-f15f-4834-bc72-a07b4460984d",
+    "category": "laptop",
+    "productName": "QuantumBook",
+    "description": "High-performance laptop for professionals and gamers.",
+    "specification": [
+      "Backlit Keyboard",
+      "512GB SSD",
+      "Intel i7",
+      "16GB RAM"
+    ]
+  },
+  {
+    "_id": "2002613f-950e-4097-89d1-9f6a3f859cb1",
+    "category": "camera",
+    "productName": "UltraZoom Cam",
+    "description": "DSLR camera with professional-grade image quality and video recording.",
+    "specification": [
+      "Touchscreen LCD",
+      "Interchangeable Lens",
+      "Wi-Fi & Bluetooth",
+      "24MP Sensor"
+    ]
+  },
+  {
+    "_id": "165a3ba1-c55f-4474-b975-cf4d0e7209f2",
+    "category": "smartphone",
+    "productName": "SmartOne X",
+    "description": "Latest-gen smartphone with brilliant display and powerful processor.",
+    "specification": [
+      "6.5-inch AMOLED",
+      "128GB Storage",
+      "Fast Charging",
+      "5G Connectivity"
+    ]
+  },
+  {
+    "_id": "f843c191-d646-4220-b1db-45b62feabdc5",
+    "category": "smartphone",
+    "productName": "SmartOne X",
+    "description": "Latest-gen smartphone with brilliant display and powerful processor.",
+    "specification": [
+      "6.5-inch AMOLED",
+      "Triple Camera",
+      "5G Connectivity",
+      "Fast Charging"
+    ]
+  },
+  {
+    "_id": "62b41116-3516-4d90-b561-bd1e61f2438f",
+    "category": "smartphone",
+    "productName": "OneEdge",
+    "description": "Feature-rich smartphone with excellent camera and fast charging.",
+    "specification": [
+      "6.5-inch AMOLED",
+      "128GB Storage",
+      "Fast Charging",
+      "Triple Camera"
+    ]
+  },
+  {
+    "_id": "da0ac043-ffad-40d0-85c7-35ec3f69e3e0",
+    "category": "smartphone",
+    "productName": "iNova S",
+    "description": "Feature-rich smartphone with excellent camera and fast charging.",
+    "specification": [
+      "Triple Camera",
+      "6.5-inch AMOLED",
+      "5G Connectivity",
+      "128GB Storage"
+    ]
+  },
+  {
+    "_id": "6841e2dc-2891-4b0e-96d5-d774986fd1e5",
+    "category": "headphones",
+    "productName": "BassBlitz Pro",
+    "description": "Noise-canceling headphones with immersive sound quality.",
+    "specification": [
+      "Over-Ear Design",
+      "Bluetooth 5.0",
+      "Built-in Mic",
+      "Noise Cancellation"
+    ]
+  },
+  {
+    "_id": "d0a9f405-17a7-4426-b615-88e63ced6543",
+    "category": "headphones",
+    "productName": "QuietBeat",
+    "description": "Noise-canceling headphones with immersive sound quality.",
+    "specification": [
+      "Over-Ear Design",
+      "Bluetooth 5.0",
+      "Noise Cancellation",
+      "Built-in Mic"
+    ]
+  },
+  {
+    "_id": "97cae474-4262-4138-80de-ee21adc3f5c1",
+    "category": "laptop",
+    "productName": "NeoEdge 14",
+    "description": "Slim and powerful laptop with long battery life.",
+    "specification": [
+      "14-inch Display",
+      "512GB SSD",
+      "Intel i7",
+      "Backlit Keyboard"
+    ]
+  },
+  {
+    "_id": "3ad17ad6-9326-4db1-82c9-c9a0b195a655",
+    "category": "laptop",
+    "productName": "TechBook X1",
+    "description": "High-performance laptop for professionals and gamers.",
+    "specification": [
+      "16GB RAM",
+      "512GB SSD",
+      "Backlit Keyboard",
+      "Intel i7"
+    ]
+  },
+  {
+    "_id": "d289da0f-ff21-4dd6-9981-a473c11783ef",
+    "category": "watch",
+    "productName": "SmartWatch Z",
+    "description": "Stylish and durable watch with multiple sports modes.",
+    "specification": [
+      "Water Resistant",
+      "Heart Rate Monitor",
+      "GPS",
+      "Sleep Tracking"
+    ]
+  },
+  {
+    "_id": "83546724-63b1-4cf8-ad21-0d7a40fcc658",
+    "category": "camera",
+    "productName": "SnapMaster",
+    "description": "DSLR camera with professional-grade image quality and video recording.",
+    "specification": [
+      "Touchscreen LCD",
+      "4K Video Recording",
+      "Wi-Fi & Bluetooth",
+      "24MP Sensor"
+    ]
+  },
+  {
+    "_id": "e995a894-8618-4179-9108-ee4b9805a47c",
+    "category": "camera",
+    "productName": "PixelPro Cam",
+    "description": "DSLR camera with professional-grade image quality and video recording.",
+    "specification": [
+      "Touchscreen LCD",
+      "4K Video Recording",
+      "Wi-Fi & Bluetooth",
+      "24MP Sensor"
+    ]
+  },
+  {
+    "_id": "6d9c300c-355d-4148-a5b4-5e232d15db82",
+    "category": "headphones",
+    "productName": "QuietBeat",
+    "description": "Noise-canceling headphones with immersive sound quality.",
+    "specification": [
+      "Noise Cancellation",
+      "Built-in Mic",
+      "20hr Battery",
+      "Bluetooth 5.0"
+    ]
+  },
+  {
+    "_id": "21ee621b-f0ca-4e32-acc7-1524e9ac64a1",
+    "category": "watch",
+    "productName": "ChronoGo",
+    "description": "Elegant smartwatch with fitness tracking and notifications.",
+    "specification": [
+      "Water Resistant",
+      "Custom Watch Faces",
+      "Sleep Tracking",
+      "Heart Rate Monitor"
+    ]
+  },
+  {
+    "_id": "6858eff3-477b-44ba-b6e9-48992b4a163e",
+    "category": "laptop",
+    "productName": "NeoEdge 14",
+    "description": "High-performance laptop for professionals and gamers.",
+    "specification": [
+      "Intel i7",
+      "512GB SSD",
+      "14-inch Display",
+      "Backlit Keyboard"
+    ]
+  },
+  {
+    "_id": "e4744cec-e3c9-435c-a443-b7c02da974a7",
+    "category": "camera",
+    "productName": "UltraZoom Cam",
+    "description": "High-performance camera with exceptional clarity and advanced imaging features.",
+    "specification": [
+      "4K Video Recording",
+      "Wi-Fi & Bluetooth",
+      "24MP Sensor",
+      "Interchangeable Lens"
+    ]
+  },
+  {
+    "_id": "d832c825-0783-4a87-aa45-20a901a28175",
+    "category": "watch",
+    "productName": "PulseSync",
+    "description": "Elegant smartwatch with fitness tracking and notifications.",
+    "specification": [
+      "Sleep Tracking",
+      "Custom Watch Faces",
+      "Heart Rate Monitor",
+      "GPS"
+    ]
+  },
+  {
+    "_id": "9a6deee6-044d-436e-90ae-a61393e28770",
+    "category": "headphones",
+    "productName": "BassBlitz Pro",
+    "description": "Wireless headphones with long battery life and deep bass.",
+    "specification": [
+      "20hr Battery",
+      "Noise Cancellation",
+      "Over-Ear Design",
+      "Built-in Mic"
+    ]
+  },
+  {
+    "_id": "bfd423c8-878e-4f28-a44a-0c09cd817194",
+    "category": "watch",
+    "productName": "ChronoGo",
+    "description": "Elegant smartwatch with fitness tracking and notifications.",
+    "specification": [
+      "Sleep Tracking",
+      "Custom Watch Faces",
+      "GPS",
+      "Water Resistant"
+    ]
+  },
+  {
+    "_id": "a714ef54-eff7-47bb-9586-79542a53ede2",
+    "category": "headphones",
+    "productName": "TuneWave X",
+    "description": "Noise-canceling headphones with immersive sound quality.",
+    "specification": [
+      "Over-Ear Design",
+      "Noise Cancellation",
+      "Built-in Mic",
+      "Bluetooth 5.0"
+    ]
+  },
+  {
+    "_id": "96a94a97-2d95-4dce-acfc-9013f38f5264",
+    "category": "laptop",
+    "productName": "NeoEdge 14",
+    "description": "High-performance laptop for professionals and gamers.",
+    "specification": [
+      "512GB SSD",
+      "Intel i7",
+      "Backlit Keyboard",
+      "16GB RAM"
+    ]
+  },
+  {
+    "_id": "1ae5a139-b16a-4062-bd66-638a419a84b0",
+    "category": "camera",
+    "productName": "ProShot DSLR",
+    "description": "DSLR camera with professional-grade image quality and video recording.",
+    "specification": [
+      "4K Video Recording",
+      "Touchscreen LCD",
+      "Wi-Fi & Bluetooth",
+      "24MP Sensor"
+    ]
+  },
+  {
+    "_id": "a4eaf16b-8a68-4d47-80d8-b2a7f8fd8167",
+    "category": "laptop",
+    "productName": "TechBook X1",
+    "description": "High-performance laptop for professionals and gamers.",
+    "specification": [
+      "14-inch Display",
+      "Intel i7",
+      "512GB SSD",
+      "Backlit Keyboard"
+    ]
+  },
+  {
+    "_id": "00eec484-2ab3-42c4-a65f-1f7faafb8238",
+    "category": "headphones",
+    "productName": "SoundNest",
+    "description": "Noise-canceling headphones with immersive sound quality.",
+    "specification": [
+      "Noise Cancellation",
+      "Over-Ear Design",
+      "Bluetooth 5.0",
+      "Built-in Mic"
+    ]
+  },
+  {
+    "_id": "3d1e2a63-81eb-4bff-8eeb-5502819e0bb5",
+    "category": "camera",
+    "productName": "ProShot DSLR",
+    "description": "High-performance camera with exceptional clarity and advanced imaging features.",
+    "specification": [
+      "Touchscreen LCD",
+      "4K Video Recording",
+      "Wi-Fi & Bluetooth",
+      "Interchangeable Lens"
+    ]
+  },
+  {
+    "_id": "6e98d45d-d078-4b3e-80b8-a898814e0056",
+    "category": "headphones",
+    "productName": "QuietBeat",
+    "description": "Wireless headphones with long battery life and deep bass.",
+    "specification": [
+      "Built-in Mic",
+      "Bluetooth 5.0",
+      "Noise Cancellation",
+      "20hr Battery"
+    ]
+  },
+  {
+    "_id": "60860905-961e-47a8-a273-454a2016cbf3",
+    "category": "smartphone",
+    "productName": "iNova S",
+    "description": "Feature-rich smartphone with excellent camera and fast charging.",
+    "specification": [
+      "6.5-inch AMOLED",
+      "Fast Charging",
+      "5G Connectivity",
+      "Triple Camera"
+    ]
+  },
+  {
+    "_id": "0c7ef499-8d65-4d0c-9d73-e542f7c99130",
+    "category": "headphones",
+    "productName": "SoundNest",
+    "description": "Wireless headphones with long battery life and deep bass.",
+    "specification": [
+      "20hr Battery",
+      "Built-in Mic",
+      "Over-Ear Design",
+      "Noise Cancellation"
+    ]
+  },
+  {
+    "_id": "f537c769-e206-4860-99df-daf9ce856c72",
+    "category": "headphones",
+    "productName": "AudioMax 900",
+    "description": "Wireless headphones with long battery life and deep bass.",
+    "specification": [
+      "Over-Ear Design",
+      "Noise Cancellation",
+      "Bluetooth 5.0",
+      "Built-in Mic"
+    ]
+  },
+  {
+    "_id": "aa63de16-1f10-41d3-9b6c-31cdcd89d20d",
+    "category": "watch",
+    "productName": "TimeTrack Elite",
+    "description": "Stylish and durable watch with multiple sports modes.",
+    "specification": [
+      "Sleep Tracking",
+      "Water Resistant",
+      "GPS",
+      "Heart Rate Monitor"
+    ]
+  },
+  {
+    "_id": "fe8d0b42-2afc-4884-af4c-599ebbc783b1",
+    "category": "headphones",
+    "productName": "AudioMax 900",
+    "description": "Noise-canceling headphones with immersive sound quality.",
+    "specification": [
+      "Over-Ear Design",
+      "Noise Cancellation",
+      "Built-in Mic",
+      "Bluetooth 5.0"
+    ]
+  },
+  {
+    "_id": "e0a13284-b5fb-4331-ba2c-e81423abd24f",
+    "category": "headphones",
+    "productName": "TuneWave X",
+    "description": "Wireless headphones with long battery life and deep bass.",
+    "specification": [
+      "20hr Battery",
+      "Noise Cancellation",
+      "Built-in Mic",
+      "Over-Ear Design"
+    ]
+  },
+  {
+    "_id": "784d1294-acf9-4757-88ee-afce924621f7",
+    "category": "headphones",
+    "productName": "QuietBeat",
+    "description": "Wireless headphones with long battery life and deep bass.",
+    "specification": [
+      "Over-Ear Design",
+      "Bluetooth 5.0",
+      "20hr Battery",
+      "Built-in Mic"
+    ]
+  },
+  {
+    "_id": "62d813db-8c04-417b-8c14-7e7eaed85c8a",
+    "category": "camera",
+    "productName": "ProShot DSLR",
+    "description": "DSLR camera with professional-grade image quality and video recording.",
+    "specification": [
+      "Interchangeable Lens",
+      "Wi-Fi & Bluetooth",
+      "24MP Sensor",
+      "Touchscreen LCD"
+    ]
+  },
+  {
+    "_id": "22604982-63a7-4c9f-a6e8-6f4f6cc3096a",
+    "category": "headphones",
+    "productName": "TuneWave X",
+    "description": "Wireless headphones with long battery life and deep bass.",
+    "specification": [
+      "Noise Cancellation",
+      "Built-in Mic",
+      "Over-Ear Design",
+      "20hr Battery"
+    ]
+  },
+  {
+    "_id": "fcaafe4d-ea52-483e-878d-791c039ed232",
+    "category": "laptop",
+    "productName": "NeoEdge 14",
+    "description": "High-performance laptop for professionals and gamers.",
+    "specification": [
+      "14-inch Display",
+      "512GB SSD",
+      "16GB RAM",
+      "Intel i7"
+    ]
+  },
+  {
+    "_id": "922afdd3-b125-40f4-b013-b7d09ae73364",
+    "category": "watch",
+    "productName": "WristMate",
+    "description": "Elegant smartwatch with fitness tracking and notifications.",
+    "specification": [
+      "Heart Rate Monitor",
+      "Sleep Tracking",
+      "GPS",
+      "Custom Watch Faces"
+    ]
+  },
+  {
+    "_id": "9c142ee6-0565-458b-b5c0-4e99cb54c014",
+    "category": "headphones",
+    "productName": "BassBlitz Pro",
+    "description": "Wireless headphones with long battery life and deep bass.",
+    "specification": [
+      "Over-Ear Design",
+      "Built-in Mic",
+      "Bluetooth 5.0",
+      "20hr Battery"
+    ]
+  },
+  {
+    "_id": "a8943680-4dd1-4e63-ab4b-b5edb69224f3",
+    "category": "watch",
+    "productName": "ChronoGo",
+    "description": "Stylish and durable watch with multiple sports modes.",
+    "specification": [
+      "Sleep Tracking",
+      "GPS",
+      "Water Resistant",
+      "Custom Watch Faces"
+    ]
+  },
+  {
+    "_id": "61e73828-2c76-4a32-978c-33a4a61dc6a3",
+    "category": "camera",
+    "productName": "SnapMaster",
+    "description": "DSLR camera with professional-grade image quality and video recording.",
+    "specification": [
+      "24MP Sensor",
+      "Touchscreen LCD",
+      "Wi-Fi & Bluetooth",
+      "Interchangeable Lens"
+    ]
+  },
+  {
+    "_id": "7bc17e9a-9de4-454b-919f-a0be689f5fc2",
+    "category": "headphones",
+    "productName": "AudioMax 900",
+    "description": "Wireless headphones with long battery life and deep bass.",
+    "specification": [
+      "Bluetooth 5.0",
+      "Noise Cancellation",
+      "20hr Battery",
+      "Built-in Mic"
+    ]
+  },
+  {
+    "_id": "e8c4a4d5-487f-435f-8968-1c32cf1281ff",
+    "category": "laptop",
+    "productName": "UltraLap Pro",
+    "description": "High-performance laptop for professionals and gamers.",
+    "specification": [
+      "14-inch Display",
+      "16GB RAM",
+      "Backlit Keyboard",
+      "Intel i7"
+    ]
+  },
+  {
+    "_id": "cd928280-4a38-40c2-afe8-496b92fb5fc6",
+    "category": "watch",
+    "productName": "TimeTrack Elite",
+    "description": "Elegant smartwatch with fitness tracking and notifications.",
+    "specification": [
+      "Custom Watch Faces",
+      "GPS",
+      "Sleep Tracking",
+      "Water Resistant"
+    ]
+  },
+  {
+    "_id": "9e13622a-fa22-4dc0-ac5b-9bb93971bb31",
+    "category": "camera",
+    "productName": "UltraZoom Cam",
+    "description": "DSLR camera with professional-grade image quality and video recording.",
+    "specification": [
+      "24MP Sensor",
+      "Touchscreen LCD",
+      "4K Video Recording",
+      "Wi-Fi & Bluetooth"
+    ]
+  },
+  {
+    "_id": "152f27c4-2efb-484b-ac76-9faee8dced14",
+    "category": "laptop",
+    "productName": "QuantumBook",
+    "description": "Slim and powerful laptop with long battery life.",
+    "specification": [
+      "Intel i7",
+      "14-inch Display",
+      "16GB RAM",
+      "512GB SSD"
+    ]
+  },
+  {
+    "_id": "c73a2095-f769-4612-9d33-29a94b62a339",
+    "category": "camera",
+    "productName": "UltraZoom Cam",
+    "description": "DSLR camera with professional-grade image quality and video recording.",
+    "specification": [
+      "Touchscreen LCD",
+      "Wi-Fi & Bluetooth",
+      "4K Video Recording",
+      "24MP Sensor"
+    ]
+  },
+  {
+    "_id": "66400d29-55d0-41ca-ad0f-08ec2d642587",
+    "category": "headphones",
+    "productName": "BassBlitz Pro",
+    "description": "Wireless headphones with long battery life and deep bass.",
+    "specification": [
+      "Noise Cancellation",
+      "20hr Battery",
+      "Bluetooth 5.0",
+      "Over-Ear Design"
+    ]
+  },
+  {
+    "_id": "48cca994-311f-4319-b14f-1f16e5b2a78f",
+    "category": "laptop",
+    "productName": "TechBook X1",
+    "description": "Slim and powerful laptop with long battery life.",
+    "specification": [
+      "14-inch Display",
+      "Intel i7",
+      "16GB RAM",
+      "512GB SSD"
+    ]
+  },
+  {
+    "_id": "f7926e57-deb4-4c3d-b23f-50f926011048",
+    "category": "laptop",
+    "productName": "QuantumBook",
+    "description": "Slim and powerful laptop with long battery life.",
+    "specification": [
+      "Backlit Keyboard",
+      "512GB SSD",
+      "16GB RAM",
+      "14-inch Display"
+    ]
+  },
+  {
+    "_id": "640d4244-33cb-4e17-a402-2c432a2a27e9",
+    "category": "smartphone",
+    "productName": "OneEdge",
+    "description": "Feature-rich smartphone with excellent camera and fast charging.",
+    "specification": [
+      "Fast Charging",
+      "6.5-inch AMOLED",
+      "Triple Camera",
+      "5G Connectivity"
+    ]
+  },
+  {
+    "_id": "5f669fea-0e5c-4c99-9f3d-7d4c3f1a82b6",
+    "category": "watch",
+    "productName": "ChronoGo",
+    "description": "Elegant smartwatch with fitness tracking and notifications.",
+    "specification": [
+      "GPS",
+      "Heart Rate Monitor",
+      "Custom Watch Faces",
+      "Water Resistant"
+    ]
+  },
+  {
+    "_id": "f352f7ad-dff4-4265-a2ef-4ef47e244768",
+    "category": "watch",
+    "productName": "PulseSync",
+    "description": "Elegant smartwatch with fitness tracking and notifications.",
+    "specification": [
+      "Water Resistant",
+      "Heart Rate Monitor",
+      "GPS",
+      "Custom Watch Faces"
+    ]
+  },
+  {
+    "_id": "f5421c6e-4706-47fe-abf4-9ae276bcd448",
+    "category": "smartphone",
+    "productName": "PixelNova",
+    "description": "Feature-rich smartphone with excellent camera and fast charging.",
+    "specification": [
+      "Fast Charging",
+      "5G Connectivity",
+      "128GB Storage",
+      "Triple Camera"
+    ]
+  },
+  {
+    "_id": "5bb91222-eaa1-45ad-9e29-e92558143acb",
+    "category": "laptop",
+    "productName": "NeoEdge 14",
+    "description": "High-performance laptop for professionals and gamers.",
+    "specification": [
+      "16GB RAM",
+      "14-inch Display",
+      "Intel i7",
+      "Backlit Keyboard"
+    ]
+  },
+  {
+    "_id": "bbc9bfbf-bf8e-449f-8389-663c843f5e93",
+    "category": "smartphone",
+    "productName": "OneEdge",
+    "description": "Latest-gen smartphone with brilliant display and powerful processor.",
+    "specification": [
+      "128GB Storage",
+      "5G Connectivity",
+      "Fast Charging",
+      "Triple Camera"
+    ]
+  },
+  {
+    "_id": "4bfa4fbc-4aca-4d5a-a82a-b631781ecd24",
+    "category": "headphones",
+    "productName": "AudioMax 900",
+    "description": "Noise-canceling headphones with immersive sound quality.",
+    "specification": [
+      "Over-Ear Design",
+      "Built-in Mic",
+      "Noise Cancellation",
+      "20hr Battery"
+    ]
+  },
+  {
+    "_id": "1e4366d8-8d0a-4e7b-b409-c9bf18d704b2",
+    "category": "watch",
+    "productName": "ChronoGo",
+    "description": "Elegant smartwatch with fitness tracking and notifications.",
+    "specification": [
+      "Heart Rate Monitor",
+      "Custom Watch Faces",
+      "GPS",
+      "Sleep Tracking"
+    ]
+  },
+  {
+    "_id": "97368d69-94be-4102-94cd-1b6e91591be0",
+    "category": "camera",
+    "productName": "PixelPro Cam",
+    "description": "DSLR camera with professional-grade image quality and video recording.",
+    "specification": [
+      "Interchangeable Lens",
+      "Touchscreen LCD",
+      "4K Video Recording",
+      "24MP Sensor"
+    ]
+  },
+  {
+    "_id": "4d98a5fd-cee4-496f-8872-e6b5f39af881",
+    "category": "watch",
+    "productName": "SmartWatch Z",
+    "description": "Elegant smartwatch with fitness tracking and notifications.",
+    "specification": [
+      "Water Resistant",
+      "Custom Watch Faces",
+      "GPS",
+      "Sleep Tracking"
+    ]
+  },
+  {
+    "_id": "e7c1f85b-4a1d-4ab6-a14e-715f3c30e5b7",
+    "category": "headphones",
+    "productName": "QuietBeat",
+    "description": "Wireless headphones with long battery life and deep bass.",
+    "specification": [
+      "20hr Battery",
+      "Noise Cancellation",
+      "Bluetooth 5.0",
+      "Over-Ear Design"
+    ]
+  },
+  {
+    "_id": "3d21983e-ccc1-4141-8a8a-ecc80f5d772e",
+    "category": "headphones",
+    "productName": "SoundNest",
+    "description": "Wireless headphones with long battery life and deep bass.",
+    "specification": [
+      "Over-Ear Design",
+      "Bluetooth 5.0",
+      "Built-in Mic",
+      "Noise Cancellation"
+    ]
+  },
+  {
+    "_id": "6d7f3eca-d212-486c-96f9-bd8edb73c3a8",
+    "category": "headphones",
+    "productName": "SoundNest",
+    "description": "Wireless headphones with long battery life and deep bass.",
+    "specification": [
+      "20hr Battery",
+      "Over-Ear Design",
+      "Built-in Mic",
+      "Noise Cancellation"
+    ]
+  },
+  {
+    "_id": "c6cff7b9-d75c-49cf-958d-d8809ad7e351",
+    "category": "laptop",
+    "productName": "NeoEdge 14",
+    "description": "High-performance laptop for professionals and gamers.",
+    "specification": [
+      "Backlit Keyboard",
+      "14-inch Display",
+      "512GB SSD",
+      "16GB RAM"
+    ]
+  },
+  {
+    "_id": "4469afea-71fd-4955-9283-75f0be5c14ff",
+    "category": "smartphone",
+    "productName": "Galaxy Beam",
+    "description": "Latest-gen smartphone with brilliant display and powerful processor.",
+    "specification": [
+      "Fast Charging",
+      "Triple Camera",
+      "128GB Storage",
+      "5G Connectivity"
+    ]
+  }
+]
